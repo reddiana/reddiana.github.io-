@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ```ad-namu
 title: [메모상자 - 나무위키 (namu.wiki)](https://namu.wiki/w/%EB%A9%94%EB%AA%A8%EC%83%81%EC%9E%90)
 [메타데이터](https://namu.wiki/w/%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0 **메타데이터**)를 메모에 집어넣어 이 메타데이터를 이용한 태그로 상호 참조를 할 수 있다. 간단하게 말하면 [위키](https://namu.wiki/w/%EC%9C%84%ED%82%A4 **위키**)와 흡사하다. 위키도 메타데이터가 존재하며, 이 메타데이터를 이용한 태그로 상호 참조가 가능
