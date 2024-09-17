@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: 월출봉에 달 뜨거든 날 불러주오
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
