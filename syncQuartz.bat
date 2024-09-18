@@ -1,2 +1,4 @@
 npx quartz sync
-set /p DUMMY=Hit ENTER to continue...
+@echo off
+echo 작업이 완료되었습니다.
+pause

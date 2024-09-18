@@ -1,10 +1,11 @@
 ---
-title: "Korbit 트레이딩봇 - 밀림 사자 Leo"
-description: "내가 잘 때도 너는 벌어라"
-layout: post
-toc: true
-image: /images/2020-03-07-leo/image-20210103012322193.png
-categories: [bot, 가상화폐, korbit]
+title: Korbit 트레이딩봇 - 밀림 사자 Leo
+description: 내가 잘 때도 너는 벌어라
+categories:
+  - bot
+  - 가상화폐
+  - korbit
+publish: true
 ---
 # 배경지식
 
@@ -56,9 +57,7 @@ categories: [bot, 가상화폐, korbit]
 # 로직
 ![[Leo.png]]
 
-## 주문가/주문량 산출
-
-### 파라미터/변수
+## 파라미터/변수
 
 - 입력
   - 입력값
@@ -81,13 +80,10 @@ categories: [bot, 가상화폐, korbit]
   - $v_o$ 주문금액
 
 - 리턴
-  
   - $p_o$ 주문가
   - $a_o$ 주문량
 
-## 매수매도 주문가 계산
-
-### 매수
+## 매수 주문가
 
 `목표밸런싱비율` $b$ 는 입력값으로 고정이다
 
@@ -144,7 +140,7 @@ p_o =
 }
 $$
 
-### 매도
+## 매도 주문가
 
 `목표밸런싱비율` $b$ 는 입력값으로 고정이다 
 
@@ -247,4 +243,4 @@ $$
   - 현금(예수금잔고)
 
 # Git
-- tps://github.com/everlearningemployee/leo.git
+- https://github.com/everlearningemployee/leo.git

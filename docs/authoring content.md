@@ -17,7 +17,7 @@ Additionally, Quartz also allows you to specify additional metadata in your note
 ```md title="content/note.md"
 ---
 title: Example Title
-draft: false
+
 tags:
   - example-tag
 ---
