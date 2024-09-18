@@ -1,5 +1,6 @@
 ---
 permalink: 2024.0918.1704.03
+publish: true
 ---
  [[리뷰]테무진 투 더 칸 - 인간 테무진과 영웅 칭기스칸, 그리고 노무현](https://www.ddanzi.com/index.php?_filter=search&mid=ddanziNews&filterid=pop-alert-search&search_target=title&search_keyword=%ED%85%8C%EB%AC%B4%EC%A7%84&page=1&listStyle=article_normal&document_srl=186030045)
 > “칭기스칸이 천재라고 생각하고 있지? 비상한 머리와 불굴의 의지를 지닌 불세출의 위인으로 몽골족의 특성을 최대한 활용한 전쟁의 신? 아니야. 테무진은 의외로 찌질한 쪽이었어. 하지만 말이야. ‘역사 속 위인들 중 아마 테무진만큼 남의 말을 잘 듣는 인물도 없었을 거야. 그는 다른 사람들 앞에서 자기만 생각해 낼 수 있는 천재가 아니라 태도의 천재였어. 그는 어머니, 아내, 노예, 동생의 말을 귀담아 들었어.”
