@@ -1,6 +1,6 @@
 ---
 publish: false
-draft: true
+
 ---
 ```ad-namu
 title: [메모상자 - 나무위키 (namu.wiki)](https://namu.wiki/w/%EB%A9%94%EB%AA%A8%EC%83%81%EC%9E%90)

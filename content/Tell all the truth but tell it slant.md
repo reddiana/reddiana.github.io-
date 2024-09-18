@@ -1,5 +1,6 @@
 ---
 permalink: 2024.0918.1700.01
+publish: true
 ---
 ![[Tell all the truth but tell it slant.png]]
 

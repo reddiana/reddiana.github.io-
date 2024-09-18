@@ -2,7 +2,7 @@
 aliases:
   - 보잉
 publish: true
-draft: false
+
 ---
 [[Bean Counter|빈카운터]]가 망가뜨린 명가
 
