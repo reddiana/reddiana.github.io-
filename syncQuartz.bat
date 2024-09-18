@@ -1,1 +1,2 @@
 npx quartz sync
+pause
