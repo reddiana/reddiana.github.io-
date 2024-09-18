@@ -1,2 +1,2 @@
 npx quartz sync
-pause
+set /p DUMMY=Hit ENTER to continue...
