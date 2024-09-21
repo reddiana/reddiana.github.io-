@@ -2,7 +2,13 @@
 publish: true
 permalink: 2024.0921.2130.45
 ---
-# ChatGPTs 활용0
+# Chrome Extention
+### NoteGPT
+- [NoteGPT - AI Summarizer and Generator for Enhanced Learning](https://notegpt.io/)
+- [NoteGPT: YouTube Summary, Webpages & PDF Summary - Chrome Web Store (google.com)](https://chromewebstore.google.com/detail/notegpt-youtube-summary-w/baecjmoceaobpnffgnlkloccenkoibbb?hl=en&utm_source=ng_home)
+- 여기서 스크립트만 복사해서 GPT가서 요약시키는 것도 괜찮은 듯
+
+# ChatGPTs 활용
 [웹페이지와 유튜브 동영상 요약하는 최신 방법! | GPTs 챗GPT 활용 방법 - YouTube](https://www.youtube.com/watch?v=vts4Qvtlyj4)
 > [!summary] VoxScript: 영상에서 추천하는 요약 방법 2가지의 방법 개요와 장점을 한국어로 요약해주세요.
 > 이 영상에서 추천하는 두 가지 요약 방법과 그 장점은 다음과 같습니다:
