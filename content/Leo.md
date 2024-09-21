@@ -6,6 +6,7 @@ categories:
   - 가상화폐
   - korbit
 publish: true
+permalink: 2024.0920.1725.02
 ---
 # 배경지식
 

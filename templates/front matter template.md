@@ -1,7 +1,6 @@
 ---
 title: How to publish Obsidian notes with Quartz on GitHub Pages
-publish: true
-
+publish: false
 tags: 
-permalink: 2024.MMdd.hhmm.ss
+permalink: <% tp.date.now("YYYY.MMDD.HHmm.ss") %>
 ---
