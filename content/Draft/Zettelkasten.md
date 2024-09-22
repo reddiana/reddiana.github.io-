@@ -11,7 +11,7 @@ alias:
 > [!NOTE] Bing 
 > ![메모 상자](https://www.bing.com/th?id=OSK.6af36bd71f47655603630e76a2de8243&pid=cdx&w=320&h=240&c=7)
 > 
-> Zettelkasten은 독일어로 '메모 상자’를 의미하며, 독일 사회학자 니클라스 루만이 사용한 노트 작성 방법입니다 [1](https://mattgiaro.com/obsidian-zettelkasten/). 이 방법은 모든 노트를 물리적 상자에 넣고 구조를 만들어 나가는 아이디어에 기반을 두고 있습니다 [1](https://mattgiaro.com/obsidian-zettelkasten/).
+> Zettelkasten은 독일어로 '메모 상자’를 의미하며, 독일 사회학자 [[니클라스 루만]]이 사용한 노트 작성 방법입니다 [1](https://mattgiaro.com/obsidian-zettelkasten/). 이 방법은 모든 노트를 물리적 상자에 넣고 구조를 만들어 나가는 아이디어에 기반을 두고 있습니다 [1](https://mattgiaro.com/obsidian-zettelkasten/).
 > 
 > Zettelkasten은 개인의 생각과 글쓰기를 위한 도구로, 생각의 연결망을 만들어냅니다 [1](https://mattgiaro.com/obsidian-zettelkasten/) [2](https://zettelkasten.de/introduction/)[3](https://zettelkasten.de/posts/overview/). 다른 시스템과의 차이점은 임의의 크기와 형태의 노트 대신 생각의 웹을 만들고, 수집이 아닌 연결을 강조한다는 점입니다 [1](https://mattgiaro.com/obsidian-zettelkasten/)[2](https://zettelkasten.de/introduction/).
 > 

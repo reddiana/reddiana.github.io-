@@ -1,6 +1,9 @@
 ---
 permalink: 2024.0918.1704.03
 publish: true
+tags:
+  - 인물
+  - Book
 ---
 [테무진 to the 칸 - 예스24 (yes24.com)](https://www.yes24.com/Product/Goods/40927368)
 실패를 딛고 초원을 평정한 기적의 기록
