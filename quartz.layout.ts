@@ -8,9 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/reddiana",
+      "reddiana@GitHub": "https://github.com/reddiana",
       //"Discord Community": "https://discord.gg/cRFFHYye7t",
-      Facebook: "https://www.facebook.com/reddiana",
+      "reddiana@Facebook": "https://www.facebook.com/reddiana",
+      "공부하는회사원@YouTube": "https://www.youtube.com/@%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%ED%9A%8C%EC%82%AC%EC%9B%90%EB%B9%A8%EA%B0%95%EB%8B%AC",
     },
   }),
 }

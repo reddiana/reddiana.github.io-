@@ -1,13 +1,14 @@
 ---
-title: 투키디데스 함정 (작성중)
+title: 투키디데스 함정
 publish: true
-
-
-category: [국제정치]
-tags: [투키디데스 함정] 
-
+category:
+  - 국제정치
+tags:
+  - 투키디데스
+  - 함정
 subtitle: 위험을 식별하였으면 예방할 방법을 찾으라는 얘기다
 header-img: https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/24eabbe7-d819-4185-b358-13c7e0fe9726/GrahamAllison_2018S-embed.jpg
+permalink: 2024.0922.1716.32
 ---
 
 그레이엄 앨리슨(Graham Allison)  중국과 미국의 전쟁은 불가피한가  - TED Talk

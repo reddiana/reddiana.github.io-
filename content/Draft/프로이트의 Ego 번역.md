@@ -1,6 +1,6 @@
 ---
 publish: true
-
+permalink: 2024.0922.1715.14
 ---
 - '자아(Ego)' '초자아(Super-ego)' '이드(Id)'는 올바른 번역이 아니라고
 - Ego, Id는 라틴어

@@ -2,7 +2,7 @@
 aliases:
   - 보잉
 publish: true
-
+permalink: 2024.0922.1713.12
 ---
 [[Bean Counter|빈카운터]]가 망가뜨린 명가
 
