@@ -4,4 +4,4 @@ publish: true
 permalink: index
 ---
 ![[누끼빨강달.png]]
- 
+ ![[Tell all the truth but tell it slant]]

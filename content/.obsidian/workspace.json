@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f7d6708ece40ae9",
+        "id": "3a50e4ae91f94353",
         "type": "tabs",
         "children": [
           {
-            "id": "86c636f35a6f4987",
+            "id": "9bdebb1bc1e3170e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backup/파이썬 기초 5종 세트.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backup/파이썬 기초 5종 세트.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backup/파이썬 기초 5종 세트.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backup/파이썬 기초 5종 세트.md"
+                "file": "index.md"
               }
             }
           },
@@ -163,25 +164,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
       "random-note:랜덤 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "canvas:새 캔버스 만들기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "templates:템플릿 삽입": false
     }
   },
-  "active": "86c636f35a6f4987",
+  "active": "9bdebb1bc1e3170e",
   "lastOpenFiles": [
+    "Draft/권리장전.md",
+    "Draft/외로움.md",
+    "index.md",
+    "Draft/사회적 합의.md",
+    "Backup/파이썬 기초 5종 세트.md",
     "Backup/예쁜 프롬프트.md",
     "Backup/Git.md",
-    "Backup/파이썬 기초 5종 세트.md",
     "Draft/사회진화론.md",
-    "Draft/사회적 합의.md",
     "Draft/대한민국 후진성.md",
     "Draft/니클라스 루만.md",
     "Dataview/최근 변경.md",
@@ -192,8 +196,6 @@
     "Draft/화분.md",
     "Draft/자기 생산적 사회 체계이론.md",
     "Draft/사법부.md",
-    "Draft/권리장전.md",
-    "Draft/외로움.md",
     "Draft/사랑의 기술.md",
     "Draft/에리히 프롬.md",
     "templates/front matter template.md",
@@ -202,7 +204,6 @@
     "Draft/읽을거리.md",
     "의협심.md",
     "Book & Video Journal/대구 - 마크 쿨란스키.md",
-    "Book & Video Journal/열국지.md",
     "Excalidraw",
     "asset/누끼빨강달.png",
     "Dataview",
