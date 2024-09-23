@@ -2,5 +2,8 @@
   "cssTheme": "",
   "accentColor": "#a14ce6",
   "baseFontSize": 22,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "videoContainer"
+  ]
 }

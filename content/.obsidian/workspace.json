@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "139f5294fa867486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backup/파이썬 기초 5종 세트.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "86c636f35a6f4987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/사회진화론.md",
+                "file": "Backup/파이썬 기초 5종 세트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -188,17 +175,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "139f5294fa867486",
+  "active": "86c636f35a6f4987",
   "lastOpenFiles": [
-    "Draft/사회적 합의.md",
+    "Backup/예쁜 프롬프트.md",
+    "Backup/Git.md",
     "Backup/파이썬 기초 5종 세트.md",
     "Draft/사회진화론.md",
+    "Draft/사회적 합의.md",
     "Draft/대한민국 후진성.md",
     "Draft/니클라스 루만.md",
     "Dataview/최근 변경.md",
     "Draft/포장.md",
     "Draft/꽌시.md",
-    "Backup/Git.md",
     "Draft/경쟁 제일주의.md",
     "Draft/공리주의.md",
     "Draft/화분.md",
@@ -215,7 +203,6 @@
     "의협심.md",
     "Book & Video Journal/대구 - 마크 쿨란스키.md",
     "Book & Video Journal/열국지.md",
-    "Book & Video Journal/테무진 to the 칸 - 홍대선.md",
     "Excalidraw",
     "asset/누끼빨강달.png",
     "Dataview",
