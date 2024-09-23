@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/사회적 합의.md",
+                "file": "Backup/파이썬 기초 5종 세트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,13 +79,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/사회적 합의.md",
+                "file": "Backup/파이썬 기초 5종 세트.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft/사회적 합의.md",
+                "file": "Backup/파이썬 기초 5종 세트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/사회적 합의.md"
+                "file": "Backup/파이썬 기초 5종 세트.md"
               }
             }
           },
@@ -192,6 +190,8 @@
   },
   "active": "139f5294fa867486",
   "lastOpenFiles": [
+    "Draft/사회적 합의.md",
+    "Backup/파이썬 기초 5종 세트.md",
     "Draft/사회진화론.md",
     "Draft/대한민국 후진성.md",
     "Draft/니클라스 루만.md",
@@ -202,7 +202,6 @@
     "Draft/경쟁 제일주의.md",
     "Draft/공리주의.md",
     "Draft/화분.md",
-    "Draft/사회적 합의.md",
     "Draft/자기 생산적 사회 체계이론.md",
     "Draft/사법부.md",
     "Draft/권리장전.md",
@@ -217,7 +216,6 @@
     "Book & Video Journal/대구 - 마크 쿨란스키.md",
     "Book & Video Journal/열국지.md",
     "Book & Video Journal/테무진 to the 칸 - 홍대선.md",
-    "Book & Video Journal/나를 보내지 마.md",
     "Excalidraw",
     "asset/누끼빨강달.png",
     "Dataview",
