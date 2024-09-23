@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "66d987b1d8e83114",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f7d6708ece40ae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "139f5294fa867486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/사회적 합의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86c636f35a6f4987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/사회진화론.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "495c3da03217f18d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0c9c6765c8de6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847f9bd18de11b3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "001a50d4b1f36d0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a875370016107b4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f7267a5ae3a07a77",
+    "type": "split",
+    "children": [
+      {
+        "id": "75ad0989890011b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38c4fcfed96f8acf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Draft/사회적 합의.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b173287fbaeba6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Draft/사회적 합의.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bfc89e8f7393831",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a979a5fbf71b5ea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Draft/사회적 합의.md"
+              }
+            }
+          },
+          {
+            "id": "1d7afe22adbbee6d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2f8c05fc783d376",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "eea68a82edea8e6a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:랜덤 노트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "139f5294fa867486",
+  "lastOpenFiles": [
+    "Draft/사회진화론.md",
+    "Draft/대한민국 후진성.md",
+    "Draft/니클라스 루만.md",
+    "Dataview/최근 변경.md",
+    "Draft/포장.md",
+    "Draft/꽌시.md",
+    "Backup/Git.md",
+    "Draft/경쟁 제일주의.md",
+    "Draft/공리주의.md",
+    "Draft/화분.md",
+    "Draft/사회적 합의.md",
+    "Draft/자기 생산적 사회 체계이론.md",
+    "Draft/사법부.md",
+    "Draft/권리장전.md",
+    "Draft/외로움.md",
+    "Draft/사랑의 기술.md",
+    "Draft/에리히 프롬.md",
+    "templates/front matter template.md",
+    "Draft/진화론.md",
+    "Draft/결과주의.md",
+    "Draft/읽을거리.md",
+    "의협심.md",
+    "Book & Video Journal/대구 - 마크 쿨란스키.md",
+    "Book & Video Journal/열국지.md",
+    "Book & Video Journal/테무진 to the 칸 - 홍대선.md",
+    "Book & Video Journal/나를 보내지 마.md",
+    "Excalidraw",
+    "asset/누끼빨강달.png",
+    "Dataview",
+    "asset/식목일 국유림 개발 발표.png",
+    "asset/식목일 국유림 개발 발표.png",
+    "asset/경복궁재개발.png",
+    "assets/WebPilot.png",
+    "assets/Voxscript.png",
+    "assets/Pasted image 20231123031328.png",
+    "assets/Pasted image 20231123024621.png",
+    "assets/Pasted image 20231122223701.png",
+    "assets/Pasted image 20231122223049.png",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/NanumDaHaengCe.ttf",
+    "assets/summer.wav",
+    "assets/always.wav",
+    "AA/OOP",
+    "AA",
+    "무제 파일.canvas",
+    "이건테스트.svg.xml",
+    "무제 파일 1.canvas"
+  ]
+}

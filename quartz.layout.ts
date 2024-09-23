@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
       localGraph: {
         // drag: true, // whether to allow panning the view around
         // zoom: true, // whether to allow zooming in and out
-        // depth: 1, // how many hops of notes to display
+        depth: 2, // how many hops of notes to display
         // scale: 0.5, // 1.1, // default view scale
         // repelForce: 0.5, // how much nodes should repel each other
         // centerForce: 0.3, // how much force to use when trying to center the nodes
