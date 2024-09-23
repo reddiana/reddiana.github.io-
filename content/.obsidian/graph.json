@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "-tag:관리페이지 -path:template  -tag:#Jounal ",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -21,10 +21,10 @@
   "nodeSizeMultiplier": 1.14635416666667,
   "lineSizeMultiplier": 2.65208333333333,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 20,
+  "centerStrength": 0.612720156555773,
+  "repelStrength": 13.0058708414873,
   "linkStrength": 1,
-  "linkDistance": 30,
+  "linkDistance": 215,
   "scale": 0.475516970484789,
   "close": true
 }

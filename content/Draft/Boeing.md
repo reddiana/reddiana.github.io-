@@ -15,7 +15,7 @@ permalink: 2024.0922.1713.12
 >  
 > 보잉의 기업문화 문제는 2년 혹은 10년간 형성된 게 아니다. 항공우주 전문가들은 1997년 보잉이 경쟁사 맥도넬 더글러스 McDonnell Douglas를 인수하며, 재무를 우선시하는 그 회사의 분위기와 상당수 경영진을 수용한 것을 그 원인으로 분석한다.
 
-# 함께 보기
+## 함께 보기
 - [GE 출신 CEO들이 만든 보잉의 비극 | 티타임즈 (daum.net)](https://v.daum.net/v/5e202c3eca835a181486ba36?fbclid=IwZXh0bgNhZW0CMTAAAR2S9ENL8qcdPFBoOb3Vt6Yn-5u323CYy95NZuZK0RZ_c156AvBl7kwdewo_aem_NK2GGNNIIRxD-b5tUjMALA)
 - [다운폴: 더 보잉 케이스 - 넷플릭스 (netflix.com)](https://www.netflix.com/title/81272421?fbclid=IwY2xjawFXQItleHRuA2FlbQIxMAABHXGORjyCGneYnzQESJXl6n8EVFnUDNONNWRfCPptlZ04E4mpPnH9Y46nJA_aem_sKvSrRWFFIKXpdrChhcoVA)
 - [Boeing has ‘severe situation’ after flawed inspections on refueling plane, US Air Force says | CNN Politics](https://edition.cnn.com/2019/03/14/politics/air-force-boeing-refueling-plane/index.html?fbclid=IwY2xjawFXQKFleHRuA2FlbQIxMAABHXGORjyCGneYnzQESJXl6n8EVFnUDNONNWRfCPptlZ04E4mpPnH9Y46nJA_aem_sKvSrRWFFIKXpdrChhcoVA)
@@ -27,3 +27,5 @@ permalink: 2024.0922.1713.12
 - [보잉: 내부고발자 BBC 인터뷰...'공급 부품에 심각한 결함 존재' - BBC News 코리아](https://www.bbc.com/korean/articles/crgywpd243xo?fbclid=IwY2xjawFXQPpleHRuA2FlbQIxMAABHR85FfVRi_Iov_fuAbISZ4EVNW6h0AkdvLtMm7TVBcowAsKITku7zdi_aA_aem_eNI_VQLI94MOisbAjg2Gsg)
 - ['8일만 국제우주정거장에 있을 예정이었지만 2025년까지 갇혀있을 위기에 처한' 미국 우주비행사들 - BBC News 코리아](https://www.bbc.com/korean/articles/cly8rw7kywko?at_campaign_type=owned&at_format=link&at_bbc_team=editorial&at_campaign=Social_Flow&at_link_origin=BBC_news_Korean&at_ptr_name=facebook_page&at_link_type=web_link&at_link_id=A3EA0DEE-561F-11EF-AB1F-FDEAA51FE403&at_medium=social&fbclid=IwY2xjawFXQQFleHRuA2FlbQIxMAABHRkUTVJvLLixrHhTet8XdC_YZMpwpA3FFEdcDV8r8N-ZnV0VgRS0y18A9Q_aem_aHfpuXizNeRECNCQAhoSpw)
 
+## 연관
+- [[기업]]

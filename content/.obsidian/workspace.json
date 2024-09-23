@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3a50e4ae91f94353",
+        "id": "e9f22238512fd465",
         "type": "tabs",
         "children": [
           {
-            "id": "9bdebb1bc1e3170e",
+            "id": "2d9a7f24a95fdb85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#교육",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,58 +156,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "random-note:랜덤 노트 열기": false,
       "graph:그래프 뷰 열기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
+      "random-note:랜덤 노트 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": true,
+      "switcher:퀵 스위처 열기": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "canvas:새 캔버스 만들기": false,
+      "canvas:새 캔버스 만들기": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "templates:템플릿 삽입": false
+      "templates:템플릿 삽입": true
     }
   },
-  "active": "9bdebb1bc1e3170e",
+  "active": "2d9a7f24a95fdb85",
   "lastOpenFiles": [
-    "Draft/권리장전.md",
-    "Draft/외로움.md",
-    "index.md",
-    "Draft/사회적 합의.md",
-    "Backup/파이썬 기초 5종 세트.md",
-    "Backup/예쁜 프롬프트.md",
-    "Backup/Git.md",
-    "Draft/사회진화론.md",
-    "Draft/대한민국 후진성.md",
-    "Draft/니클라스 루만.md",
-    "Dataview/최근 변경.md",
-    "Draft/포장.md",
-    "Draft/꽌시.md",
-    "Draft/경쟁 제일주의.md",
-    "Draft/공리주의.md",
-    "Draft/화분.md",
+    "Draft/기업 부조리.md",
+    "Draft/로봇.md",
+    "Draft/부작용.md",
+    "Draft/반독점법.md",
+    "Draft/폴리네시아.md",
+    "Draft/중국 공산당.md",
+    "templates/Frontmatter template.md",
+    "Draft/Bean Counter.md",
     "Draft/자기 생산적 사회 체계이론.md",
-    "Draft/사법부.md",
-    "Draft/사랑의 기술.md",
-    "Draft/에리히 프롬.md",
-    "templates/front matter template.md",
-    "Draft/진화론.md",
-    "Draft/결과주의.md",
-    "Draft/읽을거리.md",
-    "의협심.md",
-    "Book & Video Journal/대구 - 마크 쿨란스키.md",
+    "Draft/체제.md",
+    "Draft/꽌시.md",
+    "Draft/관습.md",
+    "Draft/클리엔테스.md",
+    "Draft/로마인이야기.md",
+    "Draft/사회적 합의.md",
+    "Draft/기업권력.md",
+    "Draft/Boeing.md",
+    "Draft/권리장전.md",
+    "Dataview/최근 변경.md",
+    "Draft/아키텍처 문서화.md",
+    "Draft/노예.md",
+    "Draft/수학 교육.md",
+    "Draft/대한민국 후진성.md",
+    "Draft/신뢰.md",
+    "Book & Video Journal/열국지.md",
+    "Draft/화분.md",
+    "asset/나만 일해.png",
+    "asset/Survivorship bias.png",
+    "asset/not_iteration.png",
+    "asset/Voxscript.png",
+    "asset/WebPilot.png",
+    "asset/Tell all the truth but tell it slant.png",
     "Excalidraw",
     "asset/누끼빨강달.png",
     "Dataview",
     "asset/식목일 국유림 개발 발표.png",
     "asset/식목일 국유림 개발 발표.png",
     "asset/경복궁재개발.png",
-    "assets/WebPilot.png",
-    "assets/Voxscript.png",
-    "assets/Pasted image 20231123031328.png",
-    "assets/Pasted image 20231123024621.png",
-    "assets/Pasted image 20231122223701.png",
-    "assets/Pasted image 20231122223049.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/NanumDaHaengCe.ttf",
