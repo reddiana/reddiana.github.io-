@@ -11,8 +11,26 @@
             "id": "2d9a7f24a95fdb85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Draft/아키텍처 문서화.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a3b1a131a10a9a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#교육",
+                "query": "이런저런",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -83,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Draft/아키텍처 문서화.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Draft/아키텍처 문서화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Draft/아키텍처 문서화.md"
+              }
             }
           },
           {
@@ -170,6 +191,8 @@
   },
   "active": "2d9a7f24a95fdb85",
   "lastOpenFiles": [
+    "Draft/Test.md",
+    "Draft/아키텍처 문서화.md",
     "Draft/기업 부조리.md",
     "Draft/로봇.md",
     "Draft/부작용.md",
@@ -189,13 +212,11 @@
     "Draft/Boeing.md",
     "Draft/권리장전.md",
     "Dataview/최근 변경.md",
-    "Draft/아키텍처 문서화.md",
     "Draft/노예.md",
     "Draft/수학 교육.md",
     "Draft/대한민국 후진성.md",
     "Draft/신뢰.md",
     "Book & Video Journal/열국지.md",
-    "Draft/화분.md",
     "asset/나만 일해.png",
     "asset/Survivorship bias.png",
     "asset/not_iteration.png",
