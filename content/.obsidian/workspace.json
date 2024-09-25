@@ -11,13 +11,16 @@
             "id": "2d9a7f24a95fdb85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft/아키텍처 문서화.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bde8a5a2f7ab974c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -33,7 +36,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "이런저런",
+                "query": "permalink",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,12 +83,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -100,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/아키텍처 문서화.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft/아키텍처 문서화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Draft/아키텍처 문서화.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,9 +178,9 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:그래프 뷰 열기": false,
-      "random-note:랜덤 노트 열기": false,
       "daily-notes:오늘의 데일리 노트 열기": true,
       "switcher:퀵 스위처 열기": false,
+      "random-note:랜덤 노트 열기": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "canvas:새 캔버스 만들기": true,
@@ -189,46 +189,46 @@
       "templates:템플릿 삽입": true
     }
   },
-  "active": "2d9a7f24a95fdb85",
+  "active": "bde8a5a2f7ab974c",
   "lastOpenFiles": [
-    "Draft/Test.md",
-    "Draft/아키텍처 문서화.md",
-    "Draft/기업 부조리.md",
-    "Draft/로봇.md",
-    "Draft/부작용.md",
-    "Draft/반독점법.md",
-    "Draft/폴리네시아.md",
-    "Draft/중국 공산당.md",
-    "templates/Frontmatter template.md",
-    "Draft/Bean Counter.md",
-    "Draft/자기 생산적 사회 체계이론.md",
-    "Draft/체제.md",
-    "Draft/꽌시.md",
-    "Draft/관습.md",
-    "Draft/클리엔테스.md",
-    "Draft/로마인이야기.md",
-    "Draft/사회적 합의.md",
-    "Draft/기업권력.md",
-    "Draft/Boeing.md",
-    "Draft/권리장전.md",
-    "Dataview/최근 변경.md",
-    "Draft/노예.md",
     "Draft/수학 교육.md",
-    "Draft/대한민국 후진성.md",
-    "Draft/신뢰.md",
-    "Book & Video Journal/열국지.md",
-    "asset/나만 일해.png",
-    "asset/Survivorship bias.png",
-    "asset/not_iteration.png",
-    "asset/Voxscript.png",
-    "asset/WebPilot.png",
-    "asset/Tell all the truth but tell it slant.png",
+    "Draft/몽골제국.md",
+    "Draft/독과점.md",
+    "Draft/궤변.md",
+    "Draft/느낌.md",
+    "Draft/반독점법.md",
+    "Tell all the truth but tell it slant.md",
+    "Draft/인류에 큰 영향을 미친 인물.md",
+    "Draft/노동력.md",
+    "Draft/관습.md",
+    "Draft/사회진화론.md",
+    "Book & Video Journal/테무진 to the 칸 - 홍대선.md",
+    "Draft/개발자 푸념.md",
+    "Draft/사회적 합의.md",
+    "Backup/Leo.md",
+    "Draft/Test.md",
+    "templates/YYYY.MMDD.HHmm.ss.md",
+    "Draft/화분.md",
+    "Draft/클리엔테스.md",
+    "Draft/기업권력.md",
+    "Draft/로봇.md",
+    "Draft/국가.md",
+    "Draft/완전평면 브라운관 모니터.md",
+    "의협심.md",
+    "Draft/민영화.md",
+    "Draft/에리히 프롬.md",
+    "asset/Pasted image 20240925000214.png",
+    "asset/Pasted image 20240924235408.png",
+    "asset/Pasted image 20240924235305.png",
+    "asset/Pasted image 20240924235028.png",
+    "asset/Pasted image 20240924234412.png",
+    "asset/Pasted image 20240924234301.png",
+    "asset/Pasted image 20240924234116.png",
+    "asset/Pasted image 20240924234020.png",
+    "asset/Pasted image 20240924233828.png",
+    "asset/Pasted image 20240924233822 1.png",
     "Excalidraw",
-    "asset/누끼빨강달.png",
     "Dataview",
-    "asset/식목일 국유림 개발 발표.png",
-    "asset/식목일 국유림 개발 발표.png",
-    "asset/경복궁재개발.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/NanumDaHaengCe.ttf",
