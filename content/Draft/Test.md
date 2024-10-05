@@ -14,10 +14,10 @@ aliases:
 
 >멀지 않으리라 예상되는 언젠가의 미래에 결국 코딩이 LLM으로 "완전히" 자동화된다면 #LLM 으로 #테스트자동생성 하는 것과 그 #테스트코드 가 어떤 의미가 있을까? 의미가 있기나 할 것인가?
 >나는 커뮤니케이션의 수단으로서 여전히 의미가 있을 것이라고 생각한다.
->https://www.facebook.com/share/p/jpc5wyaHc1g7z9St/
+>[Facebook 포스트](https://www.facebook.com/share/p/jpc5wyaHc1g7z9St/)
 
 >돈을 주는 사람과 받는 사람이 있다 이 때 돈을 누가 세는게 맞는가 정답은 둘 다 세어야 한다 받는 사람도 세보지만 주는 사람도 세보고 줘야 하는 것이다 주는 사람이 돈도 안 세어보고 맞을겨 함 세보셔 하면 안된다는 것이다 #원격개발 
->https://www.facebook.com/share/p/VVN7PchBhqPXZqMK/
+>[Facebook 포스트](https://www.facebook.com/share/p/VVN7PchBhqPXZqMK/)
 
 >아침부터 신박한 댕댕이소리를 하나 들었다
 > **댕댕**: #테스트커버리지 는 낮게 가져가는게 유리하다고 하더라구요
@@ -30,4 +30,4 @@ aliases:
 > 뭐 고치거나 할 때 문제 생기라고 만드는게 #테스트코드 입니다
 > 유리하다는건 또 무슨 말이냐 
 > 이게 무슨말인지 알아 듣는 사람은 한심한 조직을 겪어본 사람입니다 #깊은빡침
-> https://www.facebook.com/share/p/3iTUJ8NPmJGyTA1o/
+> [Facebook 포스트](https://www.facebook.com/share/p/3iTUJ8NPmJGyTA1o/)

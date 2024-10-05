@@ -4,35 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "e9f22238512fd465",
+        "id": "cc2eb57ce95f1ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "2d9a7f24a95fdb85",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "bde8a5a2f7ab974c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a3b1a131a10a9a97",
+            "id": "6896515f4ef5183a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/Test.md",
+                "file": "Book & Video Journal/열국지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "4b5b42e673d93574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "243ceacb7d3f7195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "내셔널리즘.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -66,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "permalink",
+                "query": "facebook",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dataview/최근 변경.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dataview/최근 변경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dataview/최근 변경.md"
+              }
             }
           },
           {
@@ -168,7 +182,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,55 +204,55 @@
       "templates:템플릿 삽입": true
     }
   },
-  "active": "bde8a5a2f7ab974c",
+  "active": "4b5b42e673d93574",
   "lastOpenFiles": [
-    "Draft/수학 교육.md",
-    "Draft/몽골제국.md",
-    "Draft/독과점.md",
-    "Draft/궤변.md",
-    "Draft/느낌.md",
-    "Draft/반독점법.md",
-    "Tell all the truth but tell it slant.md",
-    "Draft/인류에 큰 영향을 미친 인물.md",
-    "Draft/노동력.md",
-    "Draft/관습.md",
-    "Draft/사회진화론.md",
-    "Book & Video Journal/테무진 to the 칸 - 홍대선.md",
-    "Draft/개발자 푸념.md",
-    "Draft/사회적 합의.md",
-    "Backup/Leo.md",
+    "Draft/선순환.md",
+    "Dataview/최근 변경.md",
+    "Draft/악덕 방산기업.md",
+    "Draft/권리장전.md",
+    "Draft/꽌시.md",
+    "Draft/외로움.md",
+    "Draft/에리히 프롬 - 사랑의 기술.md",
+    "Draft/창의성.md",
+    "Backup/파이썬 기초 5종 세트.md",
     "Draft/Test.md",
-    "templates/YYYY.MMDD.HHmm.ss.md",
-    "Draft/화분.md",
-    "Draft/클리엔테스.md",
-    "Draft/기업권력.md",
-    "Draft/로봇.md",
-    "Draft/국가.md",
-    "Draft/완전평면 브라운관 모니터.md",
+    "Draft/Boeing.md",
+    "Draft/코드리뷰.md",
     "의협심.md",
+    "Book & Video Journal/열국지.md",
+    "Draft/아키텍처 문서화.md",
+    "내셔널리즘.md",
+    "Draft/개발자 푸념.md",
+    "Draft/리더십.md",
     "Draft/민영화.md",
-    "Draft/에리히 프롬.md",
-    "asset/Pasted image 20240925000214.png",
-    "asset/Pasted image 20240924235408.png",
-    "asset/Pasted image 20240924235305.png",
-    "asset/Pasted image 20240924235028.png",
-    "asset/Pasted image 20240924234412.png",
-    "asset/Pasted image 20240924234301.png",
-    "asset/Pasted image 20240924234116.png",
-    "asset/Pasted image 20240924234020.png",
-    "asset/Pasted image 20240924233828.png",
-    "asset/Pasted image 20240924233822 1.png",
-    "Excalidraw",
-    "Dataview",
+    "Draft/독과점.md",
+    "asset/Pasted image 20241006012548.png",
+    "asset/영국 철도민영화 대환장.png",
+    "Draft/스카이넷.md",
+    "Kadam/Concept.md",
+    "asset/Kadam_Job_activity.png",
+    "asset/Kadam_Concept.png",
+    "Kadam/Terms.md",
+    "Kadam/Use Case.md",
+    "asset/ddd.svg",
+    "asset/AA_붙이기.png",
+    "asset/How to tackle Survivorship bias.png",
+    "asset/incrementing_mona_lisa.png",
+    "asset/interating_mona_lisa.png",
+    "asset/Tell all the truth but tell it slant.png",
+    "Kadam/Kadam_Concept.drawio",
+    "Draft/Kadam_Concept.drawio.md",
+    "Draft/AA과정.md",
+    "Kadam/Use Case",
+    "Kadam",
+    "Excalidraw/Kadam_Concept.drawio",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
+    "Excalidraw",
+    "Dataview",
     "Excalidraw/NanumDaHaengCe.ttf",
     "assets/summer.wav",
-    "assets/always.wav",
-    "AA/OOP",
-    "AA",
     "무제 파일.canvas",
-    "이건테스트.svg.xml",
     "무제 파일 1.canvas"
   ]
 }
