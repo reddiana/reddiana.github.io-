@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc2eb57ce95f1ea6",
+        "id": "204d6ae0d87b4225",
         "type": "tabs",
         "children": [
           {
-            "id": "6896515f4ef5183a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book & Video Journal/열국지.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4b5b42e673d93574",
+            "id": "796e6377e2cb06c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "243ceacb7d3f7195",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "내셔널리즘.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,11 +49,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "facebook",
-                "matchingCase": true,
+                "query": "tag:Kadam",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -93,11 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -204,45 +178,44 @@
       "templates:템플릿 삽입": true
     }
   },
-  "active": "4b5b42e673d93574",
+  "active": "796e6377e2cb06c7",
   "lastOpenFiles": [
-    "Draft/선순환.md",
+    "Draft/꽌시.md",
     "Dataview/최근 변경.md",
+    "Draft/스카이넷.md",
+    "Draft/인공지능.md",
+    "Draft/결과주의.md",
+    "Draft/경쟁 제일주의.md",
+    "Draft/확증편향.md",
+    "Draft/클리엔테스.md",
+    "Kadam/Concept.md",
+    "Kadam/Terms.md",
+    "asset/Kadam_Job_activity.png",
+    "asset/Pasted image 20241006061902 1.png",
+    "asset/Kadam_Job_activity.png",
+    "asset/Kadam_Class_Diagram.png",
+    "asset/Pasted image 20241006061826 1.png",
+    "asset/Pasted image 20241006061826.png",
+    "asset/Kadam_Concept.png",
+    "asset/Kadam_Concept.png",
+    "Draft/피라미드.md",
+    "Kadam/Use Case.md",
+    "Draft/YouTube 요약 도구.md",
+    "Draft/노예.md",
+    "Draft/유즈케이스.md",
+    "내셔널리즘.md",
+    "Book & Video Journal/열국지.md",
+    "Draft/선순환.md",
     "Draft/악덕 방산기업.md",
     "Draft/권리장전.md",
-    "Draft/꽌시.md",
     "Draft/외로움.md",
     "Draft/에리히 프롬 - 사랑의 기술.md",
     "Draft/창의성.md",
     "Backup/파이썬 기초 5종 세트.md",
     "Draft/Test.md",
     "Draft/Boeing.md",
-    "Draft/코드리뷰.md",
-    "의협심.md",
-    "Book & Video Journal/열국지.md",
-    "Draft/아키텍처 문서화.md",
-    "내셔널리즘.md",
-    "Draft/개발자 푸념.md",
-    "Draft/리더십.md",
-    "Draft/민영화.md",
-    "Draft/독과점.md",
     "asset/Pasted image 20241006012548.png",
-    "asset/영국 철도민영화 대환장.png",
-    "Draft/스카이넷.md",
-    "Kadam/Concept.md",
-    "asset/Kadam_Job_activity.png",
-    "asset/Kadam_Concept.png",
-    "Kadam/Terms.md",
-    "Kadam/Use Case.md",
-    "asset/ddd.svg",
-    "asset/AA_붙이기.png",
-    "asset/How to tackle Survivorship bias.png",
-    "asset/incrementing_mona_lisa.png",
-    "asset/interating_mona_lisa.png",
-    "asset/Tell all the truth but tell it slant.png",
     "Kadam/Kadam_Concept.drawio",
-    "Draft/Kadam_Concept.drawio.md",
-    "Draft/AA과정.md",
     "Kadam/Use Case",
     "Kadam",
     "Excalidraw/Kadam_Concept.drawio",
