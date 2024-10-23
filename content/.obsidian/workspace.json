@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "052840e66c16154c",
+        "id": "9d01a07fadfc3f98",
         "type": "tabs",
         "children": [
           {
-            "id": "c843effee9a1f92c",
+            "id": "5a40f8b696ea4d32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kadam/Concept.md",
+                "file": "Draft/Bean Counter.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Concept"
+              "title": "Bean Counter"
             }
           }
         ]
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "a875370016107b4b",
+            "id": "5e84c9afa73ef8e9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,11 +198,22 @@
       "templates:템플릿 삽입": true
     }
   },
-  "active": "c843effee9a1f92c",
+  "active": "5a40f8b696ea4d32",
   "lastOpenFiles": [
-    "asset/Kadam_Job_activity.png",
-    "asset/Kadam_Job_activity.png",
+    "Draft/사회진화론.md",
+    "Book & Video Journal/열국지.md",
+    "Draft/인공지능.md",
+    "Draft/AA과정.md",
+    "Draft/아키텍처 문서화.md",
+    "Draft/사법부.md",
+    "Draft/체제.md",
+    "Draft/결과주의.md",
+    "Backup/파이썬 기초 5종 세트.md",
+    "Draft/점진적개발.md",
+    "Draft/Boeing.md",
     "Kadam/Concept.md",
+    "asset/Kadam_Job_activity.png",
+    "asset/Kadam_Job_activity.png",
     "Dataview/최근 변경.md",
     "Draft/악덕 방산기업.md",
     "Draft/스카이넷.md",
@@ -211,12 +221,9 @@
     "Draft/SNT.md",
     "Draft/창의성.md",
     "Draft/Bean Counter.md",
-    "Draft/Boeing.md",
     "Draft/감사.md",
     "asset/짐승도 감사할 줄 안다.png",
     "Draft/꽌시.md",
-    "Draft/인공지능.md",
-    "Draft/결과주의.md",
     "Draft/경쟁 제일주의.md",
     "Draft/확증편향.md",
     "Draft/클리엔테스.md",
@@ -228,13 +235,6 @@
     "asset/Kadam_Concept.png",
     "asset/Kadam_Concept.png",
     "Draft/피라미드.md",
-    "Kadam/Use Case.md",
-    "Draft/YouTube 요약 도구.md",
-    "Draft/노예.md",
-    "Draft/유즈케이스.md",
-    "내셔널리즘.md",
-    "Book & Video Journal/열국지.md",
-    "Draft/선순환.md",
     "asset/Pasted image 20241006012548.png",
     "Kadam/Kadam_Concept.drawio",
     "Kadam/Use Case",
