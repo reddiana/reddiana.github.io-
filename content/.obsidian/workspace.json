@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/Bean Counter.md",
+                "file": "Draft/꾸준함.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Bean Counter"
+              "title": "꾸준함"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -200,6 +201,8 @@
   },
   "active": "5a40f8b696ea4d32",
   "lastOpenFiles": [
+    "Draft/Bean Counter.md",
+    "Draft/꾸준함.md",
     "Draft/사회진화론.md",
     "Book & Video Journal/열국지.md",
     "Draft/인공지능.md",
@@ -220,7 +223,6 @@
     "Draft/HD현대중공업.md",
     "Draft/SNT.md",
     "Draft/창의성.md",
-    "Draft/Bean Counter.md",
     "Draft/감사.md",
     "asset/짐승도 감사할 줄 안다.png",
     "Draft/꽌시.md",
@@ -234,7 +236,6 @@
     "asset/Pasted image 20241006061826.png",
     "asset/Kadam_Concept.png",
     "asset/Kadam_Concept.png",
-    "Draft/피라미드.md",
     "asset/Pasted image 20241006012548.png",
     "Kadam/Kadam_Concept.drawio",
     "Kadam/Use Case",
