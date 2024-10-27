@@ -11,18 +11,29 @@
             "id": "5a40f8b696ea4d32",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "5e567ab2ad91aeda",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/꾸준함.md",
+                "file": "Draft/리더십.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "꾸준함"
+              "title": "리더십"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HD현대",
+                "query": "tag:관리페이지",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +85,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,56 +199,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:그래프 뷰 열기": false,
-      "daily-notes:오늘의 데일리 노트 열기": true,
       "switcher:퀵 스위처 열기": false,
-      "random-note:랜덤 노트 열기": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "templates:템플릿 삽입": true
+      "daily-notes:오늘의 데일리 노트 열기": true,
+      "templates:템플릿 삽입": true,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:랜덤 노트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5a40f8b696ea4d32",
+  "active": "5e567ab2ad91aeda",
   "lastOpenFiles": [
-    "Draft/Bean Counter.md",
-    "Draft/꾸준함.md",
-    "Draft/사회진화론.md",
-    "Book & Video Journal/열국지.md",
-    "Draft/인공지능.md",
-    "Draft/AA과정.md",
-    "Draft/아키텍처 문서화.md",
-    "Draft/사법부.md",
-    "Draft/체제.md",
-    "Draft/결과주의.md",
-    "Backup/파이썬 기초 5종 세트.md",
-    "Draft/점진적개발.md",
-    "Draft/Boeing.md",
-    "Kadam/Concept.md",
-    "asset/Kadam_Job_activity.png",
-    "asset/Kadam_Job_activity.png",
     "Dataview/최근 변경.md",
-    "Draft/악덕 방산기업.md",
-    "Draft/스카이넷.md",
-    "Draft/HD현대중공업.md",
+    "Draft/리더십.md",
+    "Draft/네안데르탈.md",
     "Draft/SNT.md",
-    "Draft/창의성.md",
-    "Draft/감사.md",
-    "asset/짐승도 감사할 줄 안다.png",
+    "Draft/생산성.md",
+    "Draft/야마이치증권.md",
+    "Draft/포장.md",
+    "Draft/유즈케이스.md",
+    "Draft/중국 공산당.md",
     "Draft/꽌시.md",
+    "Draft/사법부.md",
+    "Book & Video Journal/가즈오 이시구로.md",
+    "Draft/완전평면 브라운관 모니터.md",
+    "Draft/노동력.md",
+    "templates/Frontmatter template.md",
+    "Draft/폴리네시아.md",
+    "Draft/로봇.md",
+    "Draft/감사.md",
+    "Draft/노예.md",
+    "Draft/Boeing.md",
+    "Draft/Bean Counter.md",
     "Draft/경쟁 제일주의.md",
-    "Draft/확증편향.md",
-    "Draft/클리엔테스.md",
-    "Kadam/Terms.md",
+    "Draft/점진적개발.md",
+    "Draft/꾸준함.md",
+    "Kadam/Concept.md",
+    "asset/펠프스는 수영만 하지.png",
+    "Draft/사회진화론.md",
+    "asset/Kadam_Job_activity.png",
+    "asset/Kadam_Job_activity.png",
+    "asset/짐승도 감사할 줄 안다.png",
     "asset/Pasted image 20241006061902 1.png",
     "asset/Kadam_Class_Diagram.png",
     "asset/Pasted image 20241006061826 1.png",
     "asset/Pasted image 20241006061826.png",
     "asset/Kadam_Concept.png",
     "asset/Kadam_Concept.png",
-    "asset/Pasted image 20241006012548.png",
     "Kadam/Kadam_Concept.drawio",
     "Kadam/Use Case",
     "Kadam",
