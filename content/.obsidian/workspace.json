@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/토너대가리.md",
+                "file": "리더십.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "토너대가리"
+              "title": "리더십"
             }
           },
           {
@@ -89,13 +89,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -217,9 +215,11 @@
   },
   "active": "5a40f8b696ea4d32",
   "lastOpenFiles": [
-    "Dataview/최근 변경.md",
-    "Draft/리더십.md",
     "Draft/토너대가리.md",
+    "리더십.md",
+    "Draft/민영화.md",
+    "asset/Pasted image 20241006012548.png",
+    "Dataview/최근 변경.md",
     "Draft/망사용료.md",
     "Draft/Bean Counter.md",
     "asset/세봐라.png",
@@ -242,8 +242,6 @@
     "Draft/꽌시.md",
     "Draft/사법부.md",
     "Book & Video Journal/가즈오 이시구로.md",
-    "Draft/노동력.md",
-    "templates/Frontmatter template.md",
     "asset/펠프스는 수영만 하지.png",
     "asset/Kadam_Job_activity.png",
     "asset/Kadam_Job_activity.png",
@@ -252,7 +250,6 @@
     "asset/Kadam_Class_Diagram.png",
     "asset/Pasted image 20241006061826 1.png",
     "asset/Pasted image 20241006061826.png",
-    "asset/Kadam_Concept.png",
     "Kadam/Kadam_Concept.drawio",
     "Kadam/Use Case",
     "Kadam",
