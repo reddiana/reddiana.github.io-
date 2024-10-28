@@ -7,5 +7,7 @@
   "attachmentFolderPath": "asset",
   "newFileLocation": "folder",
   "showUnsupportedFiles": true,
-  "newFileFolderPath": "Draft"
+  "newFileFolderPath": "Draft",
+  "defaultViewMode": "preview",
+  "newLinkFormat": "absolute"
 }

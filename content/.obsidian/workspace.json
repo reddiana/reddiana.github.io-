@@ -11,20 +11,25 @@
             "id": "5a40f8b696ea4d32",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Draft/토너대가리.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "토너대가리"
             }
           },
           {
-            "id": "5e567ab2ad91aeda",
+            "id": "ef4d98fc986dfac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Draft/리더십.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -32,8 +37,7 @@
               "title": "리더십"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -211,10 +215,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e567ab2ad91aeda",
+  "active": "5a40f8b696ea4d32",
   "lastOpenFiles": [
     "Dataview/최근 변경.md",
     "Draft/리더십.md",
+    "Draft/토너대가리.md",
+    "Draft/망사용료.md",
+    "Draft/Bean Counter.md",
+    "asset/세봐라.png",
+    "Draft/생존 편향.md",
+    "Draft/노예.md",
+    "Book & Video Journal/테무진 to the 칸 - 홍대선.md",
+    "내셔널리즘.md",
+    "Draft/프로이트의 Ego 번역.md",
+    "Draft/수학 교육.md",
+    "Draft/완전평면 브라운관 모니터.md",
+    "Draft/클리엔테스.md",
+    "Draft/꾸준함.md",
     "Draft/네안데르탈.md",
     "Draft/SNT.md",
     "Draft/생산성.md",
@@ -225,21 +242,9 @@
     "Draft/꽌시.md",
     "Draft/사법부.md",
     "Book & Video Journal/가즈오 이시구로.md",
-    "Draft/완전평면 브라운관 모니터.md",
     "Draft/노동력.md",
     "templates/Frontmatter template.md",
-    "Draft/폴리네시아.md",
-    "Draft/로봇.md",
-    "Draft/감사.md",
-    "Draft/노예.md",
-    "Draft/Boeing.md",
-    "Draft/Bean Counter.md",
-    "Draft/경쟁 제일주의.md",
-    "Draft/점진적개발.md",
-    "Draft/꾸준함.md",
-    "Kadam/Concept.md",
     "asset/펠프스는 수영만 하지.png",
-    "Draft/사회진화론.md",
     "asset/Kadam_Job_activity.png",
     "asset/Kadam_Job_activity.png",
     "asset/짐승도 감사할 줄 안다.png",
@@ -247,7 +252,6 @@
     "asset/Kadam_Class_Diagram.png",
     "asset/Pasted image 20241006061826 1.png",
     "asset/Pasted image 20241006061826.png",
-    "asset/Kadam_Concept.png",
     "asset/Kadam_Concept.png",
     "Kadam/Kadam_Concept.drawio",
     "Kadam/Use Case",
