@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 tags: 
 permalink: 2024.0923.2113.38
 ---

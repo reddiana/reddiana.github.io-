@@ -16,5 +16,3 @@ publish: true
 > With explanation kind, 
 > The Truth must dazzle gradually
 > Or every man be blind.
-
->[!note] 말하되 비껴 말하라

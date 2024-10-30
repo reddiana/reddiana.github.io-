@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9d01a07fadfc3f98",
+        "id": "a743b402c23edaa1",
         "type": "tabs",
         "children": [
           {
-            "id": "5a40f8b696ea4d32",
+            "id": "8bb14a576346cf63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리더십.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "리더십"
-            }
-          },
-          {
-            "id": "ef4d98fc986dfac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft/리더십.md",
+                "file": "index.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "리더십"
+              "title": "index"
             }
           }
         ]
@@ -49,6 +34,36 @@
       {
         "id": "3a0c9c6765c8de6f",
         "type": "tabs",
+        "dimension": 20.893719806763286,
+        "children": [
+          {
+            "id": "a979a5fbf71b5ea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              },
+              "icon": "lucide-list",
+              "title": "index 개요"
+            }
+          },
+          {
+            "id": "5e84c9afa73ef8e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "99d027a85074bb90",
+        "type": "tabs",
+        "dimension": 79.10628019323671,
         "children": [
           {
             "id": "847f9bd18de11b3a",
@@ -63,30 +78,49 @@
             }
           },
           {
-            "id": "001a50d4b1f36d0f",
+            "id": "6bfc89e8f7393831",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "tag",
               "state": {
-                "query": "tag:관리페이지",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               },
-              "icon": "lucide-search",
-              "title": "검색"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "5e84c9afa73ef8e9",
+            "id": "38c4fcfed96f8acf",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "index의 백링크"
+            }
+          },
+          {
+            "id": "0b173287fbaeba6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index의 나가는 링크"
             }
           }
         ]
@@ -104,61 +138,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38c4fcfed96f8acf",
+            "id": "001a50d4b1f36d0f",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "search",
               "state": {
-                "file": "Draft/악덕 방산기업.md",
-                "collapseAll": true,
+                "query": "tag:#Kadam",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "alphabetical"
               },
-              "icon": "links-coming-in",
-              "title": "악덕 방산기업의 백링크"
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
-            "id": "0b173287fbaeba6d",
+            "id": "eea68a82edea8e6a",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Draft/악덕 방산기업.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "악덕 방산기업의 나가는 링크"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "6bfc89e8f7393831",
+            "id": "f2f8c05fc783d376",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "a979a5fbf71b5ea2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Draft/악덕 방산기업.md"
-              },
-              "icon": "lucide-list",
-              "title": "악덕 방산기업 개요"
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -170,33 +183,12 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "f2f8c05fc783d376",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
-            }
-          },
-          {
-            "id": "eea68a82edea8e6a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 311,
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,38 +202,40 @@
       "random-note:랜덤 노트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-excalidraw-plugin:Create new drawing": true,
+      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a40f8b696ea4d32",
+  "active": "8bb14a576346cf63",
   "lastOpenFiles": [
-    "Draft/토너대가리.md",
+    "Tell all the truth but tell it slant.md",
+    "index.md",
+    "Backup/예쁜 프롬프트.md",
+    "Backup/파이썬 기초 5종 세트.md",
+    "Backup/Git.md",
+    "Backup/Leo.md",
+    "Dataview/최근 변경.md",
+    "의협심.md",
     "리더십.md",
+    "내셔널리즘.md",
+    "Draft/자기 생산적 사회 체계이론.md",
+    "Draft/인류에 큰 영향을 미친 인물.md",
+    "Draft/외로움.md",
+    "Draft/SNT.md",
+    "Draft/폴리네시아.md",
+    "Draft/Bean Counter.md",
+    "Draft/토너대가리.md",
+    "Draft/YouTube 요약 도구.md",
     "Draft/민영화.md",
     "asset/Pasted image 20241006012548.png",
-    "Dataview/최근 변경.md",
     "Draft/망사용료.md",
-    "Draft/Bean Counter.md",
     "asset/세봐라.png",
     "Draft/생존 편향.md",
     "Draft/노예.md",
     "Book & Video Journal/테무진 to the 칸 - 홍대선.md",
-    "내셔널리즘.md",
     "Draft/프로이트의 Ego 번역.md",
     "Draft/수학 교육.md",
     "Draft/완전평면 브라운관 모니터.md",
-    "Draft/클리엔테스.md",
-    "Draft/꾸준함.md",
-    "Draft/네안데르탈.md",
-    "Draft/SNT.md",
-    "Draft/생산성.md",
-    "Draft/야마이치증권.md",
-    "Draft/포장.md",
-    "Draft/유즈케이스.md",
-    "Draft/중국 공산당.md",
-    "Draft/꽌시.md",
-    "Draft/사법부.md",
-    "Book & Video Journal/가즈오 이시구로.md",
     "asset/펠프스는 수영만 하지.png",
     "asset/Kadam_Job_activity.png",
     "asset/Kadam_Job_activity.png",
