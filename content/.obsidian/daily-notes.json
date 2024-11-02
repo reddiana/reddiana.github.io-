@@ -2,5 +2,5 @@
   "format": "YYYY-MM-DD dd",
   "folder": "journal",
   "template": "template/journal_template",
-  "autorun": true
+  "autorun": false
 }
