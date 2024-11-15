@@ -31,5 +31,6 @@
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
-  "anuppuccin-theme-settings@@anp-list-toggle": false
+  "anuppuccin-theme-settings@@anp-list-toggle": false,
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-red"
 }

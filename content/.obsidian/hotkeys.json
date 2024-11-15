@@ -49,6 +49,12 @@
         "Mod"
       ],
       "key": "\\"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Backspace"
     }
   ],
   "editor:toggle-comments": [

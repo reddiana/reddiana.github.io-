@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0fe759aa6d568ba1",
+        "id": "2f1056244de6ad6e",
         "type": "tabs",
         "children": [
           {
-            "id": "0b474e1fd0d3b485",
+            "id": "d1cac5eed210fef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,7 @@
                 "file": "Dataview/최근 변경.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "최근 변경"
@@ -42,20 +42,55 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md"
+                "file": "Draft/권력.md"
               },
               "icon": "lucide-list",
-              "title": "최근 변경 개요"
+              "title": "권력 개요"
             }
           },
           {
-            "id": "5e84c9afa73ef8e9",
+            "id": "914dfb02d751ced7",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "type": "file-properties",
+              "state": {
+                "file": "Dataview/최근 변경.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 최근 변경"
+            }
+          },
+          {
+            "id": "38c4fcfed96f8acf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Draft/대한민국 후진성.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "대한민국 후진성의 백링크"
+            }
+          },
+          {
+            "id": "0b173287fbaeba6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "최근 변경의 나가는 링크"
             }
           }
         ],
@@ -79,6 +114,16 @@
             }
           },
           {
+            "id": "5e84c9afa73ef8e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
             "id": "6bfc89e8f7393831",
             "type": "leaf",
             "state": {
@@ -92,59 +137,12 @@
             }
           },
           {
-            "id": "38c4fcfed96f8acf",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "index.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "index의 백링크"
-            }
-          },
-          {
-            "id": "0b173287fbaeba6d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "index.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "index의 나가는 링크"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200
-  },
-  "right": {
-    "id": "f7267a5ae3a07a77",
-    "type": "split",
-    "children": [
-      {
-        "id": "75ad0989890011b5",
-        "type": "tabs",
-        "children": [
-          {
             "id": "001a50d4b1f36d0f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kadam",
+                "query": "faceb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +152,23 @@
               "icon": "lucide-search",
               "title": "검색"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f7267a5ae3a07a77",
+    "type": "split",
+    "children": [
+      {
+        "id": "75ad0989890011b5",
+        "type": "tabs",
+        "children": [
           {
             "id": "eea68a82edea8e6a",
             "type": "leaf",
@@ -184,9 +198,22 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "15bf81970bfb0aa3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,40 +229,41 @@
       "command-palette:명령어 팔레트 열기": false,
       "random-note:랜덤 노트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e84c9afa73ef8e9",
+  "active": "d1cac5eed210fef0",
   "lastOpenFiles": [
-    "Kadam/Concept.md",
-    "Kadam/Use Case.md",
-    "Kadam/Terms.md",
-    "Draft/확증편향.md",
+    "Draft/개발자 푸념.md",
     "Dataview/최근 변경.md",
-    "Draft/문맹.md",
-    "Draft/토너대가리.md",
-    "Draft/군악대.md",
-    "index.md",
-    "Tell all the truth but tell it slant.md",
-    "Backup/예쁜 프롬프트.md",
-    "Backup/파이썬 기초 5종 세트.md",
-    "Backup/Git.md",
-    "Backup/Leo.md",
-    "의협심.md",
-    "리더십.md",
+    "Draft/로봇.md",
+    "Draft/일본.md",
+    "Draft/권리장전.md",
     "내셔널리즘.md",
-    "Draft/자기 생산적 사회 체계이론.md",
-    "Draft/인류에 큰 영향을 미친 인물.md",
-    "Draft/외로움.md",
-    "Draft/SNT.md",
-    "Draft/폴리네시아.md",
+    "Draft/가치.md",
+    "Draft/문맹.md",
+    "Draft/권력.md",
+    "Draft/대한민국 후진성.md",
+    "Draft/사회적합의.md",
+    "Draft/사회적 합의.md",
+    "Draft/기업권력.md",
+    "Draft/사법부.md",
+    "리더십.md",
+    "Draft/노예.md",
+    "Draft/인공지능.md",
+    "Draft/창의성.md",
+    "Draft/군악대.md",
+    "Book & Video Journal/나를 보내지 마.md",
+    "Book & Video Journal/가즈오 이시구로.md",
+    "Draft/프로이트의 Ego 번역.md",
     "Draft/Bean Counter.md",
-    "Draft/YouTube 요약 도구.md",
-    "Draft/민영화.md",
+    "asset/머리카락세기.png",
+    "Draft/토너대가리.md",
+    "Draft/Boeing.md",
+    "Draft/마이크로매니지먼트.md",
     "asset/Pasted image 20241006012548.png",
-    "Draft/망사용료.md",
     "asset/세봐라.png",
     "asset/펠프스는 수영만 하지.png",
     "asset/Kadam_Job_activity.png",
@@ -244,7 +272,6 @@
     "asset/Pasted image 20241006061902 1.png",
     "asset/Kadam_Class_Diagram.png",
     "asset/Pasted image 20241006061826 1.png",
-    "asset/Pasted image 20241006061826.png",
     "Kadam/Kadam_Concept.drawio",
     "Kadam/Use Case",
     "Kadam",
