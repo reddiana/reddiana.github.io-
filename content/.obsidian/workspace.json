@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1fabde1a96604913",
+        "id": "d873a8cfadf5373a",
         "type": "tabs",
         "children": [
           {
-            "id": "95484dfd181a2be9",
+            "id": "2592ce278f539588",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft/창의성.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "창의성"
+              "title": "새 탭"
             }
           }
         ]
@@ -54,10 +49,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Draft/창의성.md"
+                "file": "index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 창의성"
+              "title": "File properties for index"
             }
           },
           {
@@ -153,13 +148,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -217,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311,
-    "collapsed": true
+    "width": 311
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,10 +226,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "95484dfd181a2be9",
+  "active": "eea68a82edea8e6a",
   "lastOpenFiles": [
-    "asset/할수있나.md",
     "Draft/창의성.md",
+    "asset/할수있나.md",
     "asset/할수있나.png",
     "Draft/공리주의.md",
     "Dataview/최근 변경.md",
