@@ -11,10 +11,15 @@
             "id": "2592ce278f539588",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "리더십.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "리더십"
             }
           }
         ]
@@ -29,7 +34,7 @@
       {
         "id": "3a0c9c6765c8de6f",
         "type": "tabs",
-        "dimension": 20.893719806763286,
+        "dimension": 22.95918367346939,
         "children": [
           {
             "id": "a979a5fbf71b5ea2",
@@ -37,10 +42,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/권력.md"
+                "file": "리더십.md"
               },
               "icon": "lucide-list",
-              "title": "권력 개요"
+              "title": "리더십 개요"
             }
           },
           {
@@ -49,10 +54,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "리더십.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for 리더십"
             }
           },
           {
@@ -87,14 +92,51 @@
               "icon": "links-going-out",
               "title": "최근 변경의 나가는 링크"
             }
+          },
+          {
+            "id": "11bc73de48572911",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "리더십.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.7733374428598206,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "리더십 그래프"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "99d027a85074bb90",
         "type": "tabs",
-        "dimension": 79.10628019323671,
+        "dimension": 77.04081632653062,
         "children": [
           {
             "id": "847f9bd18de11b3a",
@@ -137,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "공리주",
+                "query": "tag:#관리페이지",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5026054382324
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -210,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311
+    "width": 311,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,34 +269,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eea68a82edea8e6a",
+  "active": "2592ce278f539588",
   "lastOpenFiles": [
+    "의협심.md",
+    "Draft/권력.md",
+    "Draft/권리장전.md",
+    "Dataview/최근 변경.md",
+    "Draft/현대미술.md",
     "Draft/창의성.md",
+    "Draft/문맹.md",
+    "Draft/공리주의.md",
+    "Draft/야만.md",
+    "내셔널리즘.md",
+    "리더십.md",
+    "index.md",
+    "Tell all the truth but tell it slant.md",
+    "asset/PaulMcCarthy-Tree.png",
+    "asset/과거와오늘날의예술.png",
     "asset/할수있나.md",
     "asset/할수있나.png",
-    "Draft/공리주의.md",
-    "Dataview/최근 변경.md",
-    "Draft/권력.md",
     "Draft/사회적합의.md",
     "Draft/기업권력.md",
     "Draft/사법부.md",
     "Draft/개발자 푸념.md",
     "Draft/로봇.md",
     "Draft/일본.md",
-    "Draft/권리장전.md",
-    "내셔널리즘.md",
     "Draft/가치.md",
-    "Draft/문맹.md",
     "Draft/대한민국 후진성.md",
     "Draft/사회적 합의.md",
-    "리더십.md",
     "Draft/노예.md",
     "Draft/인공지능.md",
     "Draft/군악대.md",
-    "Book & Video Journal/나를 보내지 마.md",
-    "Book & Video Journal/가즈오 이시구로.md",
-    "Draft/프로이트의 Ego 번역.md",
-    "Draft/Bean Counter.md",
     "asset/머리카락세기.png",
     "asset/Pasted image 20241006012548.png",
     "asset/세봐라.png",
@@ -261,8 +307,6 @@
     "asset/Kadam_Job_activity.png",
     "asset/Kadam_Job_activity.png",
     "asset/짐승도 감사할 줄 안다.png",
-    "asset/Pasted image 20241006061902 1.png",
-    "asset/Kadam_Class_Diagram.png",
     "Kadam/Kadam_Concept.drawio",
     "Kadam/Use Case",
     "Kadam",

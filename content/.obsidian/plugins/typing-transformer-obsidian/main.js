@@ -337,6 +337,8 @@ function log(format, ...parts) {
 }
 
 // src/ext_convert.ts
+var import_fs = require("fs");
+var import_path = require("path");
 var EOF = "EOF";
 var ANCHOR = "\xA6";
 var DEL_TRIG = "\u274C";
@@ -463,12 +465,14 @@ var ConvRule = class {
 };
 var readable = JSON.stringify;
 var RuleParser = class {
-  constructor(input) {
+  constructor(input, justCheck = false, basePath = "") {
     this.idx = 0;
     this.input = Array.from(input);
     this.convRules = [];
     this.sideRules = /* @__PURE__ */ new Map();
     this.errors = [];
+    this.justCheck = justCheck;
+    this.basePath = basePath;
   }
   peek() {
     const { idx, input } = this;
@@ -507,6 +511,7 @@ var RuleParser = class {
           switch (this.peek()) {
             case "'":
             case "\\":
+            case "|":
               result.push(this.eat());
               break;
             case "n":
@@ -524,6 +529,9 @@ var RuleParser = class {
           return Err("Expected a rule ending with ', but found newline. Note: escape intentional newline with '\\n'");
         case EOF:
           return Err("Expected a rule ending with ', but found nothing");
+        case "|":
+          result.push(ANCHOR);
+          break;
         default:
           result.push(ch);
           break;
@@ -537,8 +545,10 @@ var RuleParser = class {
       return Ok(0 /* Insert */);
     } else if (first === "-" && second === "x") {
       return Ok(1 /* Delete */);
+    } else if (first === "-" && second === "f") {
+      return Ok(2 /* Import */);
     }
-    return Err(`Expected -> or -x, but found ${readable(first)}${readable(second)}`);
+    return Err(`Expected ->, -x or -f, but found ${readable(first)}${readable(second)}`);
   }
   parseComment() {
     this.ignoreSpace();
@@ -595,7 +605,23 @@ var RuleParser = class {
       rule.type = 1 /* SideRule */;
       rule.side = sideRule;
     } else {
-      const convRule = new ConvRule(r1.value, r3.value, r2.value === 1 /* Delete */);
+      let leftPart = r1.value;
+      let rightPart = r3.value;
+      let arrowType = r2.value;
+      if (r2.value === 2 /* Import */) {
+        const path = (0, import_path.join)(this.basePath, r3.value);
+        if (r3.value === "" || !(0, import_fs.existsSync)(path) || !(0, import_fs.statSync)(path).isFile()) {
+          return Err(`File not found: "${r3.value}"`);
+        }
+        if (this.justCheck) {
+          rightPart = ANCHOR;
+        } else {
+          const content2 = (0, import_fs.readFileSync)(path, "utf-8");
+          rightPart = content2 + ANCHOR;
+        }
+        arrowType = 0 /* Insert */;
+      }
+      const convRule = new ConvRule(leftPart, rightPart, arrowType === 1 /* Delete */);
       if (!convRule.isValid) {
         return Err(convRule.invalidReasons());
       }
@@ -635,9 +661,8 @@ var RuleParser = class {
   }
 };
 var Rules = class {
-  constructor(ruletxt, justCheck = false) {
-    const unescapedTxt = ruletxt.replaceAll("\\|", "{0v0}").replaceAll("|", ANCHOR).replaceAll("{0v0}", "|");
-    const parser2 = new RuleParser(unescapedTxt);
+  constructor(ruletxt, justCheck = false, basePath = "") {
+    const parser2 = new RuleParser(ruletxt, justCheck, basePath);
     parser2.parse();
     this.rules = [];
     this.insertTrigSet = /* @__PURE__ */ new Set();
@@ -4891,10 +4916,10 @@ var TypingTransformer = class extends import_obsidian3.Plugin {
       yield this.saveSettings();
     });
     this.configureRules = (ruleString) => {
-      this.rules = new Rules(ruleString);
+      this.rules = new Rules(ruleString, false, this.basePath);
     };
     this.checkRules = (ruleString) => {
-      return new Rules(ruleString, true).errors;
+      return new Rules(ruleString, true, this.basePath).errors;
     };
     this.configureActiveExtsFromSettings = () => {
       const activeIds = [1 /* Conversion */, 0 /* SideInsert */];
@@ -5082,6 +5107,9 @@ var TypingTransformer = class extends import_obsidian3.Plugin {
   }
   onload() {
     return __async(this, null, function* () {
+      if (this.app.vault.adapter instanceof import_obsidian3.FileSystemAdapter) {
+        this.basePath = this.app.vault.adapter.getBasePath();
+      }
       console.log("loading typing transformer plugin");
       yield this.loadSettings();
       initLog(this.settings);
