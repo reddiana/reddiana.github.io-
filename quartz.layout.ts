@@ -31,10 +31,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
-    Component.DesktopOnly(Component.RecentNotes({
-        limit: 5,
-        showTags: false,
-    })),
+    // Component.DesktopOnly(Component.RecentNotes({
+    //     limit: 5,
+    //     showTags: false,
+    // })),
   ],
   right: [
     Component.Graph({
