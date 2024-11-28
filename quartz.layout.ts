@@ -68,10 +68,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
 	Component.MobileOnly(Component.Explorer()),
-    Component.MobileOnly(Component.RecentNotes({
-        limit: 5,
-        showTags: false,
-    })),
+    //Component.MobileOnly(Component.RecentNotes({
+    //    limit: 5,
+    //    showTags: false,
+    //})),
   ],
 }
 
