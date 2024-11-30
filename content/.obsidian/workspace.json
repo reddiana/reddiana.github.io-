@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backup/예쁜 프롬프트.md",
+                "file": "Book & Video Journal/Franz Kafka.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "예쁜 프롬프트"
+              "title": "Franz Kafka"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backup/예쁜 프롬프트.md",
+                "file": "Book & Video Journal/Franz Kafka.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "예쁜 프롬프트 그래프"
+              "title": "Franz Kafka 그래프"
             }
           }
         ],
@@ -190,11 +190,13 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 238.50260543823242
+    "width": 238.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -271,10 +273,11 @@
   },
   "active": "3e70639f78b2f071",
   "lastOpenFiles": [
+    "Dataview/최근 변경.md",
+    "Backup/예쁜 프롬프트.md",
     "Backup/Leo.md",
     "Backup/Git.md",
     "Backup/파이썬 기초 5종 세트.md",
-    "Backup/예쁜 프롬프트.md",
     "asset/Pasted image 20240924233822.png",
     "asset/Pasted image 20240924233755.png",
     "Draft/Thucydides Trap.md",
@@ -290,7 +293,6 @@
     "asset/Franz_Kafka,_1923.jpg.crdownload",
     "Book & Video Journal/Franz Kafka.md~",
     "Draft/프로이트.md",
-    "Dataview/최근 변경.md",
     "Draft/느낌.md",
     "Draft/에리히 프롬 - 사랑의 기술.md",
     "Draft/에리히 프롬.md",
