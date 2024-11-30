@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a3c324bd8efae6",
+        "id": "412ba58ddd582160",
         "type": "tabs",
         "children": [
           {
-            "id": "3e70639f78b2f071",
+            "id": "a7986d897e7e9576",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -253,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,10 +269,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e70639f78b2f071",
+  "active": "a7986d897e7e9576",
   "lastOpenFiles": [
-    "asset/Franz_Kafka_1923.jpg",
     "Book & Video Journal/Franz Kafka.md",
+    "asset/Franz_Kafka_1923.jpg",
     "asset/할수있나.png",
     "asset/펠프스는 수영만 하지.png",
     "asset/친구보다 경쟁.png",
