@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book & Video Journal/Franz Kafka.md",
-                "mode": "preview",
+                "file": "Backup/예쁜 프롬프트.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Franz Kafka"
+              "title": "예쁜 프롬프트"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Book & Video Journal/Franz Kafka.md",
+                "file": "Backup/예쁜 프롬프트.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Franz Kafka 그래프"
+              "title": "예쁜 프롬프트 그래프"
             }
           }
         ],
@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50260543823242,
-    "collapsed": true
+    "width": 238.50260543823242
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -273,6 +272,14 @@
   },
   "active": "3e70639f78b2f071",
   "lastOpenFiles": [
+    "Book & Video Journal/테무진 to the 칸 - 홍대선.md",
+    "Book & Video Journal/열국지.md",
+    "Book & Video Journal/대구 - 마크 쿨란스키.md",
+    "Book & Video Journal/나를 보내지 마.md",
+    "Book & Video Journal/가즈오 이시구로.md",
+    "Book & Video Journal/Tell all the truth but tell it slant.md",
+    "Book & Video Journal/Franz Kafka.md",
+    "Book & Video Journal",
     "Dataview/최근 변경.md",
     "Backup/예쁜 프롬프트.md",
     "Backup/Leo.md",
@@ -283,7 +290,6 @@
     "Draft/Thucydides Trap.md",
     "asset/경복궁재개발.png",
     "asset/50대50주식혼합전략.png",
-    "Book & Video Journal/Franz Kafka.md",
     "asset/ddd.svg",
     "asset/Franz_Kafka_1923.jpg",
     "Draft/망사용료.md",
@@ -303,12 +309,6 @@
     "Draft/Bean Counter.md",
     "Draft/Boeing.md",
     "Draft/Untitled Diagram.svg",
-    "Draft/꾸준함.md",
-    "Draft/노동력.md",
-    "리더십.md",
-    "의협심.md",
-    "Draft/권력.md",
-    "Draft/권리장전.md",
     "asset/PaulMcCarthy-Tree.png",
     "asset/과거와오늘날의예술.png",
     "Kadam/Kadam_Concept.drawio",
@@ -318,7 +318,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Dataview",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
