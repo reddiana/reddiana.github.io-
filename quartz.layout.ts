@@ -48,7 +48,7 @@ export const defaultContentPageLayout: PageLayout = {
         // centerForce: 0.3, // how much force to use when trying to center the nodes
         // linkDistance: 30, // how long should the links be by default?
         // fontSize: 0.6, // what size should the node labels be?
-        // opacityScale: 1, // 1, // how quickly do we fade out the labels when zooming out?
+        opacityScale: 2, // 1, // how quickly do we fade out the labels when zooming out?
         // removeTags: [], // what tags to remove from the graph
         // showTags: true, // whether to show tags in the graph
       },
@@ -56,18 +56,18 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true,
         zoom: true,
         depth: -1,
-        scale: 0.9,
-        repelForce: 0.1,
-        centerForce: 1, // 0.3,
-        linkDistance: 30,
-        fontSize: 0.6,
-        opacityScale: 1, // 1,
+        scale: 0.9, // 0.9,
+        repelForce: 0.6,
+        centerForce: 1.0, // 0.3,
+        linkDistance: 80, // 30,
+        fontSize: 0.8,
+        opacityScale: 3, // 1,
         removeTags: [], // what tags to remove from the graph
-        showTags: true, // whether to show tags in the graph
+        showTags: false, // true, // whether to show tags in the graph
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Backlinks()),
     //Component.MobileOnly(Component.RecentNotes({
     //    limit: 5,
     //    showTags: false,

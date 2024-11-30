@@ -1,11 +1,6 @@
 ---
 title: 투키디데스 함정
 publish: true
-category:
-  - 국제정치
-tags:
-  - 투키디데스
-  - 함정
 subtitle: 위험을 식별하였으면 예방할 방법을 찾으라는 얘기다
 header-img: https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/24eabbe7-d819-4185-b358-13c7e0fe9726/GrahamAllison_2018S-embed.jpg
 permalink: 2024.0922.1716.32
