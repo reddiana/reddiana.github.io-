@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/Thucydides Trap.md",
+                "file": "Backup/예쁜 프롬프트.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thucydides Trap"
+              "title": "예쁜 프롬프트"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Draft/Thucydides Trap.md",
+                "file": "Backup/예쁜 프롬프트.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Thucydides Trap 그래프"
+              "title": "예쁜 프롬프트 그래프"
             }
           }
         ],
@@ -271,9 +271,15 @@
   },
   "active": "3e70639f78b2f071",
   "lastOpenFiles": [
+    "Backup/Leo.md",
+    "Backup/Git.md",
+    "Backup/파이썬 기초 5종 세트.md",
+    "Backup/예쁜 프롬프트.md",
+    "asset/Pasted image 20240924233822.png",
+    "asset/Pasted image 20240924233755.png",
+    "Draft/Thucydides Trap.md",
     "asset/경복궁재개발.png",
     "asset/50대50주식혼합전략.png",
-    "asset/Pasted image 20240924233755.png",
     "Book & Video Journal/Franz Kafka.md",
     "asset/ddd.svg",
     "asset/Franz_Kafka_1923.jpg",
@@ -290,25 +296,19 @@
     "Draft/에리히 프롬.md",
     "Draft/프로이트의 Ego 번역.md",
     "Draft/Test.md",
-    "Draft/Thucydides Trap.md",
     "Draft/Zettelkasten.md",
     "Draft/프란츠 카프카.md",
     "Draft/Bean Counter.md",
     "Draft/Boeing.md",
     "Draft/Untitled Diagram.svg",
-    "Backup/예쁜 프롬프트.md",
     "Draft/꾸준함.md",
     "Draft/노동력.md",
     "리더십.md",
     "의협심.md",
     "Draft/권력.md",
     "Draft/권리장전.md",
-    "Draft/현대미술.md",
-    "Draft/창의성.md",
     "asset/PaulMcCarthy-Tree.png",
     "asset/과거와오늘날의예술.png",
-    "asset/할수있나.png",
-    "asset/머리카락세기.png",
     "Kadam/Kadam_Concept.drawio",
     "Kadam/Use Case",
     "Kadam",
