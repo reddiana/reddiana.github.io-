@@ -1,7 +1,7 @@
 ---
 publish: true
 description: 음악을 들을 때 그 음악을 마음 속으로 따라 하듯, 카프카가 창작한 그 꿈을 따라 꾸는 것이 카프카를 읽는 방법이다
-cover: asset/Franz_Kafka_1923.jpg
+cover: https://upload.wikimedia.org/wikipedia/commons/2/26/Franz_Kafka%2C_1923.jpg
 permalink: 2024.1124.2157.36
 aliases:
   - 프란츠 카프카
