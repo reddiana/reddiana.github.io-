@@ -37,6 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
     // })),
   ],
   right: [
+	Component.MobileOnly(Component.Explorer()),
     Component.Graph({
       localGraph: {
         // drag: true, // whether to allow panning the view around
@@ -67,7 +68,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-	Component.MobileOnly(Component.Explorer()),
     //Component.MobileOnly(Component.RecentNotes({
     //    limit: 5,
     //    showTags: false,

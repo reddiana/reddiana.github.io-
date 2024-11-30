@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73c117c9fa17bc6c",
+        "id": "2345cae830a12a4f",
         "type": "tabs",
         "children": [
           {
-            "id": "cb03cab23d85eeac",
+            "id": "7fbc44ebdd667a89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Book & Video Journal/Franz Kafka.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Book & Video Journal/Franz Kafka.md",
+                "file": "Dataview/최근 변경.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Franz Kafka 그래프"
+              "title": "최근 변경 그래프"
             }
           }
         ],
@@ -191,11 +191,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 238.50260543823242
+    "width": 238.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -270,10 +271,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cb03cab23d85eeac",
+  "active": "7fbc44ebdd667a89",
   "lastOpenFiles": [
-    "Dataview/최근 변경.md",
     "Book & Video Journal/Franz Kafka.md",
+    "Dataview/최근 변경.md",
+    "Draft/느낌.md",
+    "Draft/에리히 프롬 - 사랑의 기술.md",
+    "Draft/에리히 프롬.md",
+    "Draft/프로이트의 Ego 번역.md",
+    "Draft/프로이트.md",
+    "Draft/Test.md",
+    "Draft/Thucydides Trap.md",
+    "Draft/Zettelkasten.md",
     "Draft/프란츠 카프카.md",
     "Draft/Bean Counter.md",
     "Draft/Boeing.md",
@@ -291,17 +300,9 @@
     "Draft/공리주의.md",
     "Draft/야만.md",
     "내셔널리즘.md",
-    "index.md",
-    "Book & Video Journal/Tell all the truth but tell it slant.md",
     "asset/PaulMcCarthy-Tree.png",
     "asset/과거와오늘날의예술.png",
-    "asset/할수있나.md",
     "asset/할수있나.png",
-    "Draft/사회적합의.md",
-    "Draft/기업권력.md",
-    "Draft/사법부.md",
-    "Draft/개발자 푸념.md",
-    "Draft/로봇.md",
     "asset/머리카락세기.png",
     "asset/Pasted image 20241006012548.png",
     "asset/세봐라.png",
