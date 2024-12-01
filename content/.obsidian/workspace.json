@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "412ba58ddd582160",
+        "id": "5c4855154e11abd0",
         "type": "tabs",
         "children": [
           {
-            "id": "a7986d897e7e9576",
+            "id": "57d072c96d174e82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book & Video Journal/Franz Kafka.md",
-                "mode": "source",
+                "file": "Draft/처세.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franz Kafka"
+              "title": "처세"
             }
           }
         ]
@@ -34,39 +34,15 @@
       {
         "id": "3a0c9c6765c8de6f",
         "type": "tabs",
-        "dimension": 22.959183673469386,
+        "dimension": 29.24187725631769,
         "children": [
-          {
-            "id": "a979a5fbf71b5ea2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "리더십.md"
-              },
-              "icon": "lucide-list",
-              "title": "리더십 개요"
-            }
-          },
-          {
-            "id": "914dfb02d751ced7",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "리더십.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for 리더십"
-            }
-          },
           {
             "id": "38c4fcfed96f8acf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book & Video Journal/Franz Kafka.md",
+                "file": "Dataview/최근 변경.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,7 +52,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Franz Kafka의 백링크"
+              "title": "최근 변경의 백링크"
             }
           },
           {
@@ -94,12 +70,36 @@
             }
           },
           {
-            "id": "11bc73de48572911",
+            "id": "914dfb02d751ced7",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Dataview/최근 변경.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 최근 변경"
+            }
+          },
+          {
+            "id": "a979a5fbf71b5ea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dataview/최근 변경.md"
+              },
+              "icon": "lucide-list",
+              "title": "최근 변경 개요"
+            }
+          },
+          {
+            "id": "18749a0e4f047c4a",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Book & Video Journal/Franz Kafka.md",
+                "file": "Draft/처세.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -110,33 +110,33 @@
                   "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "centerStrength": 1,
+                  "repelStrength": 20,
                   "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.7733374428598206,
+                  "linkDistance": 113,
+                  "scale": 0.7545958428437243,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Franz Kafka 그래프"
+              "title": "처세 그래프"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "99d027a85074bb90",
         "type": "tabs",
-        "dimension": 77.04081632653062,
+        "dimension": 70.7581227436823,
         "children": [
           {
             "id": "847f9bd18de11b3a",
@@ -179,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "후진",
+                "query": "tag:#해자",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,12 +190,12 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 397.5026054382324,
-    "collapsed": true
+    "width": 278.5026054382324
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -253,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,9 +270,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7986d897e7e9576",
+  "active": "57d072c96d174e82",
   "lastOpenFiles": [
-    "Book & Video Journal/Franz Kafka.md",
+    "Dataview/최근 변경.md",
+    "Draft/오픈소스.md",
+    "Draft/포장.md",
+    "Draft/처세.md",
+    "Draft/공리주의.md",
+    "Draft/가치.md",
+    "Draft/프로이트.md",
+    "Draft/외로움.md",
+    "Draft/삼성 종특.md",
+    "Draft/봉창.md",
+    "Draft/화분.md",
+    "Draft/확증편향.md",
+    "Draft/혼네.md",
+    "Draft/폴리네시아.md",
+    "Draft/선순환.md",
+    "Draft/사회적합의.md",
+    "Draft/사법부.md",
+    "Draft/민영화.md",
+    "Draft/문맹.md",
+    "Draft/무례.md",
+    "Draft/노동력.md",
+    "Draft/꾸준함.md",
+    "Draft/꽌시.md",
+    "Draft/궤변.md",
+    "Draft/권리장전.md",
+    "Draft/권력.md",
+    "asset/Man, I stoke your code.png",
+    "asset/봉창.png",
+    "asset/Pasted image 20241201174253.png",
     "asset/Franz_Kafka_1923.jpg",
     "asset/할수있나.png",
     "asset/펠프스는 수영만 하지.png",
@@ -279,36 +308,9 @@
     "asset/짐승도 감사할 줄 안다.png",
     "asset/자산의리밸런싱.png",
     "asset/영국 철도민영화 대환장.png",
-    "asset/식목일 국유림 개발 발표.png",
-    "asset/세봐라.png",
-    "asset/山一증권.png",
-    "Dataview/최근 변경.md",
-    "Draft/AA과정.md",
-    "Draft/대한민국 후진성.md",
-    "Backup/예쁜 프롬프트.md",
-    "Book & Video Journal/테무진 to the 칸 - 홍대선.md",
-    "Book & Video Journal/열국지.md",
-    "Book & Video Journal/대구 - 마크 쿨란스키.md",
-    "Book & Video Journal/나를 보내지 마.md",
-    "Book & Video Journal/가즈오 이시구로.md",
-    "Book & Video Journal/Tell all the truth but tell it slant.md",
     "Book & Video Journal",
-    "Backup/Leo.md",
-    "Backup/Git.md",
-    "Backup/파이썬 기초 5종 세트.md",
-    "Draft/Thucydides Trap.md",
-    "Draft/망사용료.md",
-    "Draft/점진적개발.md",
-    "Draft/Prompt Engineering.md",
     "asset/Franz_Kafka,_1923.jpg.crdownload",
     "Book & Video Journal/Franz Kafka.md~",
-    "Draft/프로이트.md",
-    "Draft/느낌.md",
-    "Draft/에리히 프롬 - 사랑의 기술.md",
-    "Draft/에리히 프롬.md",
-    "Draft/프로이트의 Ego 번역.md",
-    "Draft/Test.md",
-    "Draft/Zettelkasten.md",
     "Kadam/Kadam_Concept.drawio",
     "Kadam/Use Case",
     "Kadam",
