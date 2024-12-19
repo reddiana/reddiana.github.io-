@@ -28,6 +28,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Draft/결과주의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "결과주의"
+            }
+          },
+          {
+            "id": "db2ec3633e8b8d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Draft/공리주의.md",
                 "mode": "source",
                 "backlinks": true,
@@ -36,9 +51,54 @@
               "icon": "lucide-file",
               "title": "공리주의"
             }
+          },
+          {
+            "id": "3453afcfcb6cf8f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "최근 변경"
+            }
+          },
+          {
+            "id": "0cdca8d547ab022b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/트롤리 딜레마.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "트롤리 딜레마"
+            }
+          },
+          {
+            "id": "8bc8a13c8df5a886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/결과주의.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "결과주의"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -58,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/공리주의.md",
+                "file": "Draft/트롤리 딜레마.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -68,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "공리주의의 백링크"
+              "title": "트롤리 딜레마의 백링크"
             }
           },
           {
@@ -77,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft/언론.md",
+                "file": "Draft/트롤리 딜레마.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "언론의 나가는 링크"
+              "title": "트롤리 딜레마의 나가는 링크"
             }
           },
           {
@@ -205,12 +265,12 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 339.5026054382324,
-    "collapsed": true
+    "width": 339.5026054382324
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -276,11 +336,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "532e47a30b1303bb",
+  "active": "0cdca8d547ab022b",
   "lastOpenFiles": [
-    "Draft/사회진화론.md",
     "Draft/공리주의.md",
+    "Draft/트롤리 딜레마.md",
+    "Dataview/최근 변경.md",
     "Draft/결과주의.md",
+    "Draft/사회진화론.md",
     "Draft/경쟁 제일주의.md",
     "Draft/궤변.md",
     "Draft/기업권력.md",
@@ -299,7 +361,6 @@
     "asset/interating_mona_lisa.png",
     "asset/incrementing_mona_lisa.png",
     "Draft/현대미술.md",
-    "Dataview/최근 변경.md",
     "asset/Pasted image 20241215120709.png.md",
     "Book & Video Journal/열국지.md",
     "Draft/대한민국 후진성.md",
@@ -313,7 +374,6 @@
     "Draft/예수.md",
     "Draft/프로이트.md",
     "Draft/마호메트.md",
-    "Draft/마르크스.md",
     "Book & Video Journal",
     "asset/Franz_Kafka,_1923.jpg.crdownload",
     "Book & Video Journal/Franz Kafka.md~",
