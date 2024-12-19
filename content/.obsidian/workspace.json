@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/최근 변경.md",
-                "mode": "source",
+                "file": "Draft/언론.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "언론"
+            }
+          },
+          {
+            "id": "97ead2a896d65d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "리더십.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최근 변경"
+              "title": "리더십"
             }
           }
         ]
@@ -42,7 +57,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "Draft/언론.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -52,7 +67,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "최근 변경의 백링크"
+              "title": "언론의 백링크"
             }
           },
           {
@@ -61,12 +76,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book & Video Journal/Franz Kafka.md",
+                "file": "Draft/언론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Franz Kafka의 나가는 링크"
+              "title": "언론의 나가는 링크"
             }
           },
           {
@@ -75,10 +90,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Draft/진영논리.md"
+                "file": "Draft/언론.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 진영논리"
+              "title": "File properties for 언론"
             }
           },
           {
@@ -87,10 +102,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md"
+                "file": "Draft/언론.md"
               },
               "icon": "lucide-list",
-              "title": "최근 변경 개요"
+              "title": "언론 개요"
             }
           },
           {
@@ -99,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "Draft/언론.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,11 +142,10 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "최근 변경 그래프"
+              "title": "언론 그래프"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "99d027a85074bb90",
@@ -179,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "김구",
+                "query": "tag:#테스트코드",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,12 +204,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 339.5026054382324
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -205,26 +218,6 @@
         "id": "75ad0989890011b5",
         "type": "tabs",
         "children": [
-          {
-            "id": "eea68a82edea8e6a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "f2f8c05fc783d376",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
           {
             "id": "1d7afe22adbbee6d",
             "type": "leaf",
@@ -248,8 +241,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "e85543f121f3cc5a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -272,21 +276,30 @@
   },
   "active": "28cc63a14a2cddba",
   "lastOpenFiles": [
-    "Book & Video Journal/열국지.md",
+    "asset/업계관계자는.png",
+    "Draft/언론.md",
+    "리더십.md",
+    "asset/Leo.png",
+    "asset/Pasted image 20241219145151.png",
+    "asset/어떤메뉴를먹었나요_2.png",
+    "asset/어떤메뉴를먹었나요_21.png",
+    "asset/어떤메뉴를먹었나요_1.png",
+    "asset/권성동뒤풀이.png",
+    "asset/박근혜기자간담회.png",
+    "asset/interating_mona_lisa.png",
+    "asset/incrementing_mona_lisa.png",
+    "Draft/현대미술.md",
     "Dataview/최근 변경.md",
+    "asset/Pasted image 20241215120709.png.md",
+    "Book & Video Journal/열국지.md",
     "Draft/대한민국 후진성.md",
     "Draft/결과주의.md",
     "Draft/오픈소스.md",
     "Draft/봉창.md",
     "Draft/처세.md",
     "의협심.md",
-    "리더십.md",
     "내셔널리즘.md",
     "Draft/진영논리.md",
-    "asset/Pasted image 20241215120603.png",
-    "asset/Pasted image 20241215120709.png.md",
-    "asset/Pasted image 20241215120709.png",
-    "asset/2차계엄부탁해요.png",
     "Draft/찰스 다윈.md",
     "Draft/예수.md",
     "Draft/프로이트.md",
@@ -295,19 +308,9 @@
     "Draft/독수독과.md",
     "Draft/엘리트주의.md",
     "Draft/포장.md",
-    "asset/이유가있겠지_남친살해시도3.png",
-    "asset/이유가있겠지_남친살해시도1.png",
-    "asset/이유가있겠지_남친살해시도2.png",
-    "asset/우리는무조건이재명.png",
-    "asset/Pasted image 20241215120445.png",
-    "asset/나라팔아먹어도새누리당.png",
     "Book & Video Journal/Franz Kafka.md",
     "Draft/진화론.md",
     "Draft/경쟁 제일주의.md",
-    "Draft/헌신.md",
-    "Draft/인류에 큰 영향을 미친 인물.md",
-    "Draft/완전평면 브라운관 모니터.md",
-    "asset/Man, I stoke your code.png",
     "Book & Video Journal",
     "asset/Franz_Kafka,_1923.jpg.crdownload",
     "Book & Video Journal/Franz Kafka.md~",
