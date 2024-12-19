@@ -121,6 +121,11 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
+<<<<<<< HEAD
+    const iconPath = joinSegments(baseDir, "static/favicon.ico")
+    //const iconPath = joinSegments(baseDir, "static/icon.png")
+    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
+=======
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
@@ -153,6 +158,7 @@ export default (() => {
     // Url of current page
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+>>>>>>> upstream/v4
 
     return (
       <head>
