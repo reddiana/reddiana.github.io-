@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5c4855154e11abd0",
+        "id": "dd4f1d152822d6fc",
         "type": "tabs",
         "children": [
           {
-            "id": "57d072c96d174e82",
+            "id": "28cc63a14a2cddba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/처세.md",
-                "mode": "preview",
+                "file": "Dataview/최근 변경.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "처세"
+              "title": "최근 변경"
             }
           }
         ]
@@ -75,10 +75,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dataview/최근 변경.md"
+                "file": "Draft/진영논리.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 최근 변경"
+              "title": "File properties for 진영논리"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Draft/처세.md",
+                "file": "Dataview/최근 변경.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,12 +122,12 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 113,
-                  "scale": 0.7545958428437243,
+                  "scale": 0.5694148860370305,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "처세 그래프"
+              "title": "최근 변경 그래프"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#해자",
+                "query": "김구",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5026054382324
+    "width": 200
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -270,44 +270,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57d072c96d174e82",
+  "active": "28cc63a14a2cddba",
   "lastOpenFiles": [
+    "Book & Video Journal/열국지.md",
     "Dataview/최근 변경.md",
+    "Draft/대한민국 후진성.md",
+    "Draft/결과주의.md",
     "Draft/오픈소스.md",
-    "Draft/포장.md",
-    "Draft/처세.md",
-    "Draft/공리주의.md",
-    "Draft/가치.md",
-    "Draft/프로이트.md",
-    "Draft/외로움.md",
-    "Draft/삼성 종특.md",
     "Draft/봉창.md",
-    "Draft/화분.md",
-    "Draft/확증편향.md",
-    "Draft/혼네.md",
-    "Draft/폴리네시아.md",
-    "Draft/선순환.md",
-    "Draft/사회적합의.md",
-    "Draft/사법부.md",
-    "Draft/민영화.md",
-    "Draft/문맹.md",
-    "Draft/무례.md",
-    "Draft/노동력.md",
-    "Draft/꾸준함.md",
-    "Draft/꽌시.md",
-    "Draft/궤변.md",
-    "Draft/권리장전.md",
-    "Draft/권력.md",
+    "Draft/처세.md",
+    "의협심.md",
+    "리더십.md",
+    "내셔널리즘.md",
+    "Draft/진영논리.md",
+    "asset/Pasted image 20241215120603.png",
+    "asset/Pasted image 20241215120709.png.md",
+    "asset/Pasted image 20241215120709.png",
+    "asset/2차계엄부탁해요.png",
+    "Draft/찰스 다윈.md",
+    "Draft/예수.md",
+    "Draft/프로이트.md",
+    "Draft/마호메트.md",
+    "Draft/마르크스.md",
+    "Draft/독수독과.md",
+    "Draft/엘리트주의.md",
+    "Draft/포장.md",
+    "asset/이유가있겠지_남친살해시도3.png",
+    "asset/이유가있겠지_남친살해시도1.png",
+    "asset/이유가있겠지_남친살해시도2.png",
+    "asset/우리는무조건이재명.png",
+    "asset/Pasted image 20241215120445.png",
+    "asset/나라팔아먹어도새누리당.png",
+    "Book & Video Journal/Franz Kafka.md",
+    "Draft/진화론.md",
+    "Draft/경쟁 제일주의.md",
+    "Draft/헌신.md",
+    "Draft/인류에 큰 영향을 미친 인물.md",
+    "Draft/완전평면 브라운관 모니터.md",
     "asset/Man, I stoke your code.png",
-    "asset/봉창.png",
-    "asset/Pasted image 20241201174253.png",
-    "asset/Franz_Kafka_1923.jpg",
-    "asset/할수있나.png",
-    "asset/펠프스는 수영만 하지.png",
-    "asset/친구보다 경쟁.png",
-    "asset/짐승도 감사할 줄 안다.png",
-    "asset/자산의리밸런싱.png",
-    "asset/영국 철도민영화 대환장.png",
     "Book & Video Journal",
     "asset/Franz_Kafka,_1923.jpg.crdownload",
     "Book & Video Journal/Franz Kafka.md~",
