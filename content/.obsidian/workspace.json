@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66b0e0dd534ca6cc",
+        "id": "cee9d6816fec5289",
         "type": "tabs",
         "children": [
           {
-            "id": "13c594585400f9b9",
+            "id": "d9dce6c74ef2d0c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -261,11 +261,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "13c594585400f9b9",
+  "active": "d9dce6c74ef2d0c5",
   "lastOpenFiles": [
-    "Dataview/최근 변경.md",
-    "Draft/트롤리 딜레마.md",
     "Draft/엘리트주의.md",
+    "Draft/트롤리 딜레마.md",
+    "Dataview/최근 변경.md",
+    "Draft/귀족주의.md",
     "Draft/결과주의.md",
     "Draft/사회진화론.md",
     "Draft/공리주의.md",
@@ -298,7 +299,6 @@
     "Draft/진영논리.md",
     "Draft/찰스 다윈.md",
     "Draft/예수.md",
-    "Draft/프로이트.md",
     "Book & Video Journal",
     "asset/Franz_Kafka,_1923.jpg.crdownload",
     "Book & Video Journal/Franz Kafka.md~",
