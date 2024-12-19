@@ -4,40 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "dd4f1d152822d6fc",
+        "id": "800fb8d97fbb8fce",
         "type": "tabs",
         "children": [
           {
-            "id": "28cc63a14a2cddba",
+            "id": "ebf8496689f7a741",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/언론.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "언론"
-            }
-          },
-          {
-            "id": "97ead2a896d65d7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리더십.md",
+                "file": "Draft/사회진화론.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리더십"
+              "title": "사회진화론"
+            }
+          },
+          {
+            "id": "532e47a30b1303bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/공리주의.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "공리주의"
+            }
+          },
+          {
+            "id": "015e753bebb0de0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/결과주의.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "결과주의"
+            }
+          },
+          {
+            "id": "24ca6d880b2b1afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/공리주의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "공리주의"
+            }
+          },
+          {
+            "id": "2b128bbb428f4709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/경쟁 제일주의.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "경쟁 제일주의"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -57,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/언론.md",
+                "file": "Draft/공리주의.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -67,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "언론의 백링크"
+              "title": "공리주의의 백링크"
             }
           },
           {
@@ -193,7 +239,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#테스트코드",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5026054382324
+    "width": 339.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -274,11 +321,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28cc63a14a2cddba",
+  "active": "24ca6d880b2b1afe",
   "lastOpenFiles": [
-    "asset/업계관계자는.png",
-    "Draft/언론.md",
+    "Draft/결과주의.md",
+    "Draft/공리주의.md",
+    "Draft/사회진화론.md",
+    "Draft/경쟁 제일주의.md",
+    "Draft/궤변.md",
+    "Draft/기업권력.md",
+    "Draft/국가.md",
+    "Draft/군악대.md",
     "리더십.md",
+    "Draft/언론.md",
+    "asset/업계관계자는.png",
     "asset/Leo.png",
     "asset/Pasted image 20241219145151.png",
     "asset/어떤메뉴를먹었나요_2.png",
@@ -293,7 +348,6 @@
     "asset/Pasted image 20241215120709.png.md",
     "Book & Video Journal/열국지.md",
     "Draft/대한민국 후진성.md",
-    "Draft/결과주의.md",
     "Draft/오픈소스.md",
     "Draft/봉창.md",
     "Draft/처세.md",
@@ -305,12 +359,6 @@
     "Draft/프로이트.md",
     "Draft/마호메트.md",
     "Draft/마르크스.md",
-    "Draft/독수독과.md",
-    "Draft/엘리트주의.md",
-    "Draft/포장.md",
-    "Book & Video Journal/Franz Kafka.md",
-    "Draft/진화론.md",
-    "Draft/경쟁 제일주의.md",
     "Book & Video Journal",
     "asset/Franz_Kafka,_1923.jpg.crdownload",
     "Book & Video Journal/Franz Kafka.md~",
