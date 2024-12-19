@@ -29,36 +29,6 @@
               "type": "markdown",
               "state": {
                 "file": "Draft/공리주의.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "공리주의"
-            }
-          },
-          {
-            "id": "015e753bebb0de0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft/결과주의.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "결과주의"
-            }
-          },
-          {
-            "id": "24ca6d880b2b1afe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft/공리주의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,24 +36,9 @@
               "icon": "lucide-file",
               "title": "공리주의"
             }
-          },
-          {
-            "id": "2b128bbb428f4709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft/경쟁 제일주의.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "경쟁 제일주의"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -321,11 +276,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24ca6d880b2b1afe",
+  "active": "532e47a30b1303bb",
   "lastOpenFiles": [
-    "Draft/결과주의.md",
-    "Draft/공리주의.md",
     "Draft/사회진화론.md",
+    "Draft/공리주의.md",
+    "Draft/결과주의.md",
     "Draft/경쟁 제일주의.md",
     "Draft/궤변.md",
     "Draft/기업권력.md",
