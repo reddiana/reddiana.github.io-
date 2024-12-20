@@ -1,7 +1,7 @@
 {
   "cssTheme": "AnuPpuccin",
   "accentColor": "#a14ce6",
-  "baseFontSize": 19,
+  "baseFontSize": 15,
   "theme": "obsidian",
   "enabledCssSnippets": [
     "color-extend"
