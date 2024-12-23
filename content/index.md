@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: index
-title: 말하되 비껴 말하라
+title: 월출봉에 달 뜨거든 날 불러주오
 date: 2024-09-22
 ---
- ![[책, 영상 Journal/Tell all the truth but tell it slant]]
+![[asset/아침이 온다.png]]

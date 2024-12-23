@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
 	Component.MobileOnly(Component.Explorer()),
     Component.MobileOnly(Component.RecentNotes({
-        limit: 5,
+        limit: 10,
         showTags: false,
     })),
     Component.Graph({

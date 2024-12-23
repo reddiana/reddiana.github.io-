@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "377051ddd4790aae",
+            "id": "54339f9a1783f158",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/최근 변경.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최근 변경"
+              "title": "index"
             }
           }
         ]
@@ -34,7 +34,7 @@
       {
         "id": "3a0c9c6765c8de6f",
         "type": "tabs",
-        "dimension": 29.24187725631769,
+        "dimension": 42.148014440433215,
         "children": [
           {
             "id": "38c4fcfed96f8acf",
@@ -42,7 +42,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -52,7 +52,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "최근 변경의 백링크"
+              "title": "index의 백링크"
             }
           },
           {
@@ -87,10 +87,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "최근 변경 개요"
+              "title": "index 개요"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,15 +127,16 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "최근 변경 그래프"
+              "title": "index 그래프"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "99d027a85074bb90",
         "type": "tabs",
-        "dimension": 70.7581227436823,
+        "dimension": 57.851985559566785,
         "children": [
           {
             "id": "847f9bd18de11b3a",
@@ -178,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "중간",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,12 +245,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "377051ddd4790aae",
+  "active": "54339f9a1783f158",
   "lastOpenFiles": [
-    "전산/점진적개발.md",
-    "전산/인공지능.md",
-    "index.md",
+    "asset/아침이 온다.png",
     "Dataview/최근 변경.md",
+    "전산/인공지능.md",
+    "생각/스카이넷.md",
+    "index.md",
+    "생각/창의성.md",
+    "생각/의협심.md",
+    "생각/신뢰.md",
+    "생각/궤변.md",
+    "전산/Test.md",
+    "전산/점진적개발.md",
     "templates/YYYY.MMDD.HHmm.ss.md",
     "templates/Frontmatter template.md",
     "asset/2차계엄부탁해요.png",
@@ -275,13 +283,6 @@
     "전산/Project/_Index_of_Project.md",
     "전산/Tip/_Index_of_Tip.md",
     "전산/공부/_Index_of_공부.md",
-    "책, 영상 Journal/_Index_of_책, 영상 Journal.md",
-    "책, 영상 Journal/대구 - 마크 쿨란스키.md",
-    "생각/사회진화론.md",
-    "생각/생존 편향.md",
-    "생각/수학 교육.md",
-    "생각/야마이치증권.md",
-    "생각/체제.md",
     "전산/Project",
     "전산/공부",
     "전산",
