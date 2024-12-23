@@ -31,13 +31,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
-    // Component.DesktopOnly(Component.RecentNotes({
-    //     limit: 5,
-    //     showTags: false,
-    // })),
+    Component.DesktopOnly(Component.RecentNotes({
+        limit: 5,
+        showTags: false,
+    })),
   ],
   right: [
 	Component.MobileOnly(Component.Explorer()),
+    Component.MobileOnly(Component.RecentNotes({
+        limit: 5,
+        showTags: false,
+    })),
     Component.Graph({
       localGraph: {
         // drag: true, // whether to allow panning the view around
@@ -68,10 +72,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.Backlinks()),
-    //Component.MobileOnly(Component.RecentNotes({
-    //    limit: 5,
-    //    showTags: false,
-    //})),
   ],
 }
 

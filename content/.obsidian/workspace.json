@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9a70de18b3ca2a3",
+        "id": "1c26b646c240b610",
         "type": "tabs",
         "children": [
           {
-            "id": "47e6c425bc137be6",
+            "id": "377051ddd4790aae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,10 +87,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/언론.md"
+                "file": "Dataview/최근 변경.md"
               },
               "icon": "lucide-list",
-              "title": "언론 개요"
+              "title": "최근 변경 개요"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Draft/언론.md",
+                "file": "Dataview/최근 변경.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "언론 그래프"
+              "title": "최근 변경 그래프"
             }
           }
         ]
@@ -189,13 +189,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.50260543823242,
-    "collapsed": true
+    "width": 320.5026054382324
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -216,21 +214,7 @@
             }
           },
           {
-            "id": "15bf81970bfb0aa3",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "e85543f121f3cc5a",
+            "id": "148c6abfffd2dd8c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -240,11 +224,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,53 +244,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47e6c425bc137be6",
+  "active": "377051ddd4790aae",
   "lastOpenFiles": [
-    "Draft/거짓 주장 우기기.md",
+    "전산/점진적개발.md",
+    "전산/인공지능.md",
+    "index.md",
     "Dataview/최근 변경.md",
-    "Draft/트롤리 딜레마.md",
-    "asset/Pasted image 20241220112356.png",
-    "Draft/엘리트주의.md",
-    "Draft/귀족주의.md",
-    "Draft/결과주의.md",
-    "Draft/사회진화론.md",
-    "Draft/공리주의.md",
-    "Draft/경쟁 제일주의.md",
-    "Draft/궤변.md",
-    "Draft/기업권력.md",
-    "Draft/국가.md",
-    "Draft/군악대.md",
-    "리더십.md",
-    "Draft/언론.md",
-    "asset/업계관계자는.png",
+    "templates/YYYY.MMDD.HHmm.ss.md",
+    "templates/Frontmatter template.md",
+    "asset/2차계엄부탁해요.png",
+    "asset/Tell all the truth but tell it slant.png",
+    "asset/Survivorship bias.png",
+    "asset/PaulMcCarthy-Tree.png",
+    "asset/not_iteration.png",
+    "asset/Man, I stoke your code.png",
     "asset/Leo.png",
-    "asset/Pasted image 20241219145151.png",
-    "asset/어떤메뉴를먹었나요_2.png",
-    "asset/어떤메뉴를먹었나요_21.png",
-    "asset/어떤메뉴를먹었나요_1.png",
-    "asset/권성동뒤풀이.png",
-    "asset/박근혜기자간담회.png",
-    "asset/interating_mona_lisa.png",
-    "Draft/현대미술.md",
-    "asset/Pasted image 20241215120709.png.md",
-    "Book & Video Journal/열국지.md",
-    "Draft/대한민국 후진성.md",
-    "Draft/오픈소스.md",
-    "Draft/봉창.md",
-    "Draft/처세.md",
-    "의협심.md",
-    "내셔널리즘.md",
-    "Draft/진영논리.md",
-    "Book & Video Journal",
+    "asset/우리는무조건이재명.png",
+    "asset/윤석열계란말이.png",
+    "asset/윤석열손바닥왕.png",
+    "생각/언론.md",
+    "생각/결과주의.md",
+    "생각/거짓 주장 우기기.md",
+    "생각/있어 보이는 말 하기.md",
+    "생각/생산성.md",
+    "_Index_of_content.md",
+    "전산/_Index_of_전산.md",
+    "Dataview/_Index_of_Dataview.md",
+    "templates/_Index_of_templates.md",
+    "생각/_Index_of_생각.md",
+    "전산/Project/_Index_of_Project.md",
+    "전산/Tip/_Index_of_Tip.md",
+    "전산/공부/_Index_of_공부.md",
+    "책, 영상 Journal/_Index_of_책, 영상 Journal.md",
+    "책, 영상 Journal/대구 - 마크 쿨란스키.md",
+    "생각/사회진화론.md",
+    "생각/생존 편향.md",
+    "생각/수학 교육.md",
+    "생각/야마이치증권.md",
+    "생각/체제.md",
+    "전산/Project",
+    "전산/공부",
+    "전산",
+    "전산/Tip",
+    "책, 영상 Journal",
     "asset/Franz_Kafka,_1923.jpg.crdownload",
     "Book & Video Journal/Franz Kafka.md~",
     "Kadam/Kadam_Concept.drawio",
     "Kadam/Use Case",
     "Kadam",
-    "Excalidraw/Kadam_Concept.drawio",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
