@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생각/반독점법.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "반독점법"
+              "title": "index"
             }
           }
         ]
@@ -42,7 +42,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "생각/반독점법.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -52,7 +52,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "반독점법의 백링크"
+              "title": "index의 백링크"
             }
           },
           {
@@ -87,10 +87,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "생각/반독점법.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "반독점법 개요"
+              "title": "index 개요"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "생각/반독점법.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "반독점법 그래프"
+              "title": "index 그래프"
             }
           }
         ],
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5026054382324
+    "width": 200
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -215,7 +215,7 @@
             }
           },
           {
-            "id": "148c6abfffd2dd8c",
+            "id": "811d9bd7b6dd96b5",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -248,11 +248,12 @@
   "active": "ef2169b2964d5299",
   "lastOpenFiles": [
     "Dataview/최근 변경.md",
+    "생각/스카이넷.md",
+    "전산/인공지능.md",
+    "생각/반독점법.md",
     "생각/봉창.md",
     "index.md",
-    "전산/인공지능.md",
     "asset/아침이 온다.png",
-    "생각/스카이넷.md",
     "생각/창의성.md",
     "생각/의협심.md",
     "생각/신뢰.md",
@@ -282,7 +283,6 @@
     "생각/_Index_of_생각.md",
     "전산/Project/_Index_of_Project.md",
     "전산/Tip/_Index_of_Tip.md",
-    "전산/공부/_Index_of_공부.md",
     "전산/Project",
     "전산/공부",
     "전산",
