@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1c26b646c240b610",
+        "id": "c116ddcf23a328ad",
         "type": "tabs",
         "children": [
           {
-            "id": "54339f9a1783f158",
+            "id": "ef2169b2964d5299",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "content/전산/인공지능.md",
-                "staged": false
+                "file": "생각/반독점법.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (인공지능)"
+              "icon": "lucide-file",
+              "title": "반독점법"
             }
           }
         ]
@@ -40,6 +42,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "생각/반독점법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -49,7 +52,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "반독점법의 백링크"
             }
           },
           {
@@ -83,9 +86,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "생각/반독점법.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "반독점법 개요"
             }
           },
           {
@@ -94,6 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "생각/반독점법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -121,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "반독점법 그래프"
             }
           }
         ],
@@ -239,11 +245,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54339f9a1783f158",
+  "active": "ef2169b2964d5299",
   "lastOpenFiles": [
-    "전산/인공지능.md",
     "Dataview/최근 변경.md",
+    "생각/봉창.md",
     "index.md",
+    "전산/인공지능.md",
     "asset/아침이 온다.png",
     "생각/스카이넷.md",
     "생각/창의성.md",
