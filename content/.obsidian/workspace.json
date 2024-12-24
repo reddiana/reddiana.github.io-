@@ -11,10 +11,15 @@
             "id": "aefc2daabc4bae7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "최근 변경"
             }
           }
         ]
@@ -82,10 +87,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전산/인공지능.md"
+                "file": "Dataview/최근 변경.md"
               },
               "icon": "lucide-list",
-              "title": "인공지능 개요"
+              "title": "최근 변경 개요"
             }
           },
           {
@@ -94,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "전산/인공지능.md",
+                "file": "Dataview/최근 변경.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "인공지능 그래프"
+              "title": "최근 변경 그래프"
             }
           }
         ],
@@ -244,13 +249,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69a2ee2eab6d985d",
+  "active": "aefc2daabc4bae7f",
   "lastOpenFiles": [
+    "전산/인공지능.md",
     "Dataview/최근 변경.md",
     "생각/스카이넷.md",
     "생각/언론.md",
     "생각/노예.md",
-    "전산/인공지능.md",
     "전산/공부/파이썬 기초 5종 세트.md",
     "생각/클리엔테스.md",
     "생각/트롤리 딜레마.md",
