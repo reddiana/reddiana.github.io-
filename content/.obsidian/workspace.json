@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/최근 변경.md",
-                "mode": "preview",
+                "file": "전산/Tip/예쁜 프롬프트.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "최근 변경"
+              "title": "예쁜 프롬프트"
             }
           }
         ]
@@ -87,10 +87,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md"
+                "file": "전산/Tip/예쁜 프롬프트.md"
               },
               "icon": "lucide-list",
-              "title": "최근 변경 개요"
+              "title": "예쁜 프롬프트 개요"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "전산/Tip/예쁜 프롬프트.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "최근 변경 그래프"
+              "title": "예쁜 프롬프트 그래프"
             }
           }
         ],
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -251,8 +252,8 @@
   },
   "active": "aefc2daabc4bae7f",
   "lastOpenFiles": [
-    "전산/인공지능.md",
     "Dataview/최근 변경.md",
+    "전산/인공지능.md",
     "생각/스카이넷.md",
     "생각/언론.md",
     "생각/노예.md",
