@@ -5,7 +5,7 @@ publish: true
 permalink: 2024.0922.1713.12
 date: 2022-02-27
 ---
-[[생각/Bean Counter|빈카운터]]가 망가뜨린 명가
+[[Bean Counter|빈카운터]]가 망가뜨린 명가
 
 > [!Summery] [[포춘US]보잉의 장기 하강 < 국제일반 < Global < 기사본문 - 포춘코리아 디지털 뉴스 (fortunekorea.co.kr)](https://www.fortunekorea.co.kr/news/articleView.html?idxno=12203&fbclid=IwY2xjawFXQAVleHRuA2FlbQIxMAABHZL0Q0vypx08UGg5vdW3pif7m7fbcJjL3k1m5krRFn9zXnoC8GXuTB17Cg_aem_NK2GGNNIIRxD-b5tUjMALA)
 > 비용 절감의 부작용은 2003년 시작된 보잉의 787 드림라이너 프로그램 Dreamliner program에서 곧 불거졌다. 경영진은 납품업체에 핵심 부품 개발을 아웃소싱해 비용을 절감하도록 했다. 하지만 업체 중 상당수는 이런 일에 적합하지 못한 것으로 판명됐고, 결국 반복적인 고장과 지연으로 이어졌다. 2011년 마침내 제트기가 비행을 시작했다. 그러나 당초 계획보다 3년이 늦어졌고, 예산을 250억 달러나 초과했다. 2013년에는 787 두 대의 배터리에서 전기화재가 발생, 규제당국이 거의 한 달 동안 비행을 금지했다.
@@ -29,6 +29,6 @@ date: 2022-02-27
 - ['8일만 국제우주정거장에 있을 예정이었지만 2025년까지 갇혀있을 위기에 처한' 미국 우주비행사들 - BBC News 코리아](https://www.bbc.com/korean/articles/cly8rw7kywko?at_campaign_type=owned&at_format=link&at_bbc_team=editorial&at_campaign=Social_Flow&at_link_origin=BBC_news_Korean&at_ptr_name=facebook_page&at_link_type=web_link&at_link_id=A3EA0DEE-561F-11EF-AB1F-FDEAA51FE403&at_medium=social&fbclid=IwY2xjawFXQQFleHRuA2FlbQIxMAABHRkUTVJvLLixrHhTet8XdC_YZMpwpA3FFEdcDV8r8N-ZnV0VgRS0y18A9Q_aem_aHfpuXizNeRECNCQAhoSpw)
 
 ## 연관
-- [[생각/Bean Counter|Bean Counter]]
+- [[Bean Counter|Bean Counter]]
 
 [Facebook 포스트](https://www.facebook.com/share/19qY3gPJpM/)

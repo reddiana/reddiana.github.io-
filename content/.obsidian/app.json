@@ -9,6 +9,6 @@
   "showUnsupportedFiles": true,
   "newFileFolderPath": "Draft",
   "defaultViewMode": "preview",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "propertiesInDocument": "visible"
 }
