@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "생각/언론.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최근 변경"
+              "title": "언론"
             }
           },
           {
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "생각/언론.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "최근 변경 그래프"
+              "title": "언론 그래프"
             }
           }
         ],
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md"
+                "file": "생각/언론.md"
               },
               "icon": "lucide-list",
-              "title": "최근 변경 개요"
+              "title": "언론 개요"
             }
           },
           {
@@ -282,14 +282,17 @@
   },
   "active": "f3620f7628614f5e",
   "lastOpenFiles": [
-    "생각/야만.md",
+    "asset/업계관계자는.png",
+    "생각/언론.md",
     "Dataview/최근 변경.md",
+    "asset/업계관계자는 - 원본.png",
+    "asset/업계관계자는 - 복사본.png",
+    "생각/야만.md",
     "생각/문명.md",
     "index.md",
     "책, 영상 Journal/Tell all the truth but tell it slant.md",
     "생각/결과주의.md",
     "asset/Pasted image 20241230011041.png",
-    "생각/언론.md",
     "asset/Pasted image 20241229141217.png",
     "생각/궤변.md",
     "asset/Pasted image 20241229111841.png",
@@ -312,12 +315,9 @@
     "전산/Tip/Git.md",
     "전산/Tip/예쁜 프롬프트.md",
     "전산/인공지능.md",
-    "생각/노예.md",
     "asset/아침이 온다.png",
     "asset/2차계엄부탁해요.png",
     "asset/Tell all the truth but tell it slant.png",
-    "asset/Survivorship bias.png",
-    "asset/PaulMcCarthy-Tree.png",
     "전산/Project",
     "전산/공부",
     "전산",
