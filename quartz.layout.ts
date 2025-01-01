@@ -54,6 +54,7 @@ export const defaultContentPageLayout: PageLayout = {
         // fontSize: 0.6, // what size should the node labels be?
         opacityScale: 2, // 1, // how quickly do we fade out the labels when zooming out?
         // removeTags: [], // what tags to remove from the graph
+		removeTags: ["관리페이지"],
         // showTags: true, // whether to show tags in the graph
       },
       globalGraph: {
@@ -66,7 +67,8 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 80, // 30,
         fontSize: 0.8,
         opacityScale: 3, // 1,
-        removeTags: [], // what tags to remove from the graph
+        // removeTags: [], // what tags to remove from the graph
+		removeTags: ["관리페이지"],
         showTags: false, // true, // whether to show tags in the graph
       },
     }),

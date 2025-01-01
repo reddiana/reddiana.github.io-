@@ -52,8 +52,7 @@
               "title": "최근 변경"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -281,10 +280,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a979a5fbf71b5ea2",
+  "active": "f3620f7628614f5e",
   "lastOpenFiles": [
-    "생각/문명.md",
+    "생각/야만.md",
     "Dataview/최근 변경.md",
+    "생각/문명.md",
     "index.md",
     "책, 영상 Journal/Tell all the truth but tell it slant.md",
     "생각/결과주의.md",
@@ -299,7 +299,6 @@
     "생각/거짓 주장 우기기.md",
     "asset/Pasted image 20241228110850.png",
     "생각/신뢰.md",
-    "생각/야만.md",
     "생각/경쟁.md",
     "생각/대한민국 후진성.md",
     "생각/사회진화론.md",
