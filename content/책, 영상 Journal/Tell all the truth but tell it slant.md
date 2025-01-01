@@ -2,6 +2,8 @@
 permalink: 2024.0918.1700.01
 publish: true
 date: 2024-09-18
+aliases:
+  - 말하되 비껴 말하라
 ---
 ![[Tell all the truth but tell it slant.png]]
 

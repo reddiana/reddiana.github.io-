@@ -6,3 +6,4 @@ date: 2024-09-22
 ---
 ![[asset/아침이 온다.png]]
 아침이 와버렸네
+%% [[Tell all the truth but tell it slant]] %%
