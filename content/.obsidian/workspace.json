@@ -4,41 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f8434b8021d23fc",
+        "id": "7bf1559cc2a19511",
         "type": "tabs",
         "children": [
           {
-            "id": "f3620f7628614f5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "생각/언론.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "언론"
-            }
-          },
-          {
-            "id": "4ce163c55fc6b459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "5d30646415b76274",
+            "id": "8c6650cf0ea91cdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,7 +16,7 @@
                 "file": "Dataview/최근 변경.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "최근 변경"
@@ -66,6 +36,18 @@
         "type": "tabs",
         "dimension": 42.148014440433215,
         "children": [
+          {
+            "id": "a979a5fbf71b5ea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dataview/최근 변경.md"
+              },
+              "icon": "lucide-list",
+              "title": "최근 변경 개요"
+            }
+          },
           {
             "id": "38c4fcfed96f8acf",
             "type": "leaf",
@@ -117,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "생각/언론.md",
+                "file": "Dataview/최근 변경.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,11 +127,10 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "언론 그래프"
+              "title": "최근 변경 그래프"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "99d027a85074bb90",
@@ -176,18 +157,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "a979a5fbf71b5ea2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "생각/언론.md"
-              },
-              "icon": "lucide-list",
-              "title": "언론 개요"
             }
           },
           {
@@ -264,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,27 +250,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3620f7628614f5e",
+  "active": "8c6650cf0ea91cdb",
   "lastOpenFiles": [
-    "asset/업계관계자는.png",
+    "전산/개발자 푸념.md",
     "생각/언론.md",
+    "asset/업계관계자는.png",
+    "생각/내셔널리즘.md",
+    "asset/Pasted image 20250102142647.png",
     "Dataview/최근 변경.md",
-    "asset/업계관계자는 - 원본.png",
-    "asset/업계관계자는 - 복사본.png",
+    "전산/Test.md",
+    "전산/공부/유즈케이스.md",
+    "전산/공부/Prompt Engineering.md",
+    "책, 영상 Journal/Tell all the truth but tell it slant.md",
+    "index.md",
+    "asset/리밸런싱 사례.png",
+    "asset/How to tackle Survivorship bias.png",
+    "asset/Pasted image 20241228110850.png",
+    "asset/Pasted image 20241229111841.png",
+    "asset/Pasted image 20241229141217.png",
+    "asset/Pasted image 20241230011041.png",
+    "asset/Tell all the truth but tell it slant.png",
+    "asset/넌인간을흉내낸기계일뿐이니까.png",
     "생각/야만.md",
     "생각/문명.md",
-    "index.md",
-    "책, 영상 Journal/Tell all the truth but tell it slant.md",
     "생각/결과주의.md",
-    "asset/Pasted image 20241230011041.png",
-    "asset/Pasted image 20241229141217.png",
     "생각/궤변.md",
-    "asset/Pasted image 20241229111841.png",
     "생각/독과점.md",
     "생각/기업권력.md",
     "생각/거짓말.md",
     "생각/거짓 주장 우기기.md",
-    "asset/Pasted image 20241228110850.png",
     "생각/신뢰.md",
     "생각/경쟁.md",
     "생각/대한민국 후진성.md",
@@ -309,15 +287,6 @@
     "생각/스카이넷.md",
     "생각/경쟁 제일주의.md",
     "생각/공리주의.md",
-    "asset/마가렛미드-문명의시작.png",
-    "생각/양심.md",
-    "생각/내셔널리즘.md",
-    "전산/Tip/Git.md",
-    "전산/Tip/예쁜 프롬프트.md",
-    "전산/인공지능.md",
-    "asset/아침이 온다.png",
-    "asset/2차계엄부탁해요.png",
-    "asset/Tell all the truth but tell it slant.png",
     "전산/Project",
     "전산/공부",
     "전산",
